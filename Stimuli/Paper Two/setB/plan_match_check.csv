@@ -1,0 +1,97 @@
+scene,file,sentence_no,sentence,question,answer
+SB-P1,SB-P1_V1.png,1,A woman reads in an armchair beside a tall window.,"Does this photograph fit the following description: ""A woman reads in an armchair beside a tall window.""?",no
+SB-P1,SB-P1_V1.png,2,She holds the open book on her lap.,"Does this photograph fit the following description: ""She holds the open book on her lap.""?",yes
+SB-P1,SB-P1_V1.png,3,"Rain streaks the glass, and the light is soft and grey.","Does this photograph fit the following description: ""Rain streaks the glass, and the light is soft and grey.""?",yes
+SB-P1,SB-P1_V1.png,4,"Soft blues, greys, and cream.","Does this photograph fit the following description: ""Soft blues, greys, and cream.""?",yes
+SB-P1,SB-P1_I2.png,1,A woman reads in an armchair beside a tall window.,"Does this photograph fit the following description: ""A woman reads in an armchair beside a tall window.""?",yes
+SB-P1,SB-P1_I2.png,2,She holds the open book on her lap.,"Does this photograph fit the following description: ""She holds the open book on her lap.""?",yes
+SB-P1,SB-P1_I2.png,3,"Rain streaks the glass, and the light is soft and grey.","Does this photograph fit the following description: ""Rain streaks the glass, and the light is soft and grey.""?",yes
+SB-P1,SB-P1_I2.png,4,"Soft blues, greys, and cream.","Does this photograph fit the following description: ""Soft blues, greys, and cream.""?",yes
+SB-P2,SB-P2_V1.png,1,An older man repairs a bicycle in an open garage.,"Does this photograph fit the following description: ""An older man repairs a bicycle in an open garage.""?",yes
+SB-P2,SB-P2_V1.png,2,"He kneels beside the back wheel, and a dog sleeps by the door.","Does this photograph fit the following description: ""He kneels beside the back wheel, and a dog sleeps by the door.""?",yes
+SB-P2,SB-P2_V1.png,3,Warm light from one overhead bulb.,"Does this photograph fit the following description: ""Warm light from one overhead bulb.""?",yes
+SB-P2,SB-P2_V1.png,4,Browns and dusty oranges.,"Does this photograph fit the following description: ""Browns and dusty oranges.""?",yes
+SB-P2,SB-P2_I2.png,1,An older man repairs a bicycle in an open garage.,"Does this photograph fit the following description: ""An older man repairs a bicycle in an open garage.""?",yes
+SB-P2,SB-P2_I2.png,2,"He kneels beside the back wheel, and a dog sleeps by the door.","Does this photograph fit the following description: ""He kneels beside the back wheel, and a dog sleeps by the door.""?",yes
+SB-P2,SB-P2_I2.png,3,Warm light from one overhead bulb.,"Does this photograph fit the following description: ""Warm light from one overhead bulb.""?",yes
+SB-P2,SB-P2_I2.png,4,Browns and dusty oranges.,"Does this photograph fit the following description: ""Browns and dusty oranges.""?",yes
+SB-P3,SB-P3_V1.png,1,A young woman in a yellow raincoat walks down a narrow side street.,"Does this photograph fit the following description: ""A young woman in a yellow raincoat walks down a narrow side street.""?",yes
+SB-P3,SB-P3_V1.png,2,She holds a closed umbrella.,"Does this photograph fit the following description: ""She holds a closed umbrella.""?",yes
+SB-P3,SB-P3_V1.png,3,The sky above the rooftops is heavy and grey.,"Does this photograph fit the following description: ""The sky above the rooftops is heavy and grey.""?",yes
+SB-P3,SB-P3_V1.png,4,Greys with one yellow accent.,"Does this photograph fit the following description: ""Greys with one yellow accent.""?",yes
+SB-P3,SB-P3_I2.png,1,A young woman in a yellow raincoat walks down a narrow side street.,"Does this photograph fit the following description: ""A young woman in a yellow raincoat walks down a narrow side street.""?",yes
+SB-P3,SB-P3_I2.png,2,She holds a closed umbrella.,"Does this photograph fit the following description: ""She holds a closed umbrella.""?",yes
+SB-P3,SB-P3_I2.png,3,The sky above the rooftops is heavy and grey.,"Does this photograph fit the following description: ""The sky above the rooftops is heavy and grey.""?",yes
+SB-P3,SB-P3_I2.png,4,Greys with one yellow accent.,"Does this photograph fit the following description: ""Greys with one yellow accent.""?",yes
+SB-P4,SB-P4_V1.png,1,A chef plates a dish in a restaurant kitchen.,"Does this photograph fit the following description: ""A chef plates a dish in a restaurant kitchen.""?",yes
+SB-P4,SB-P4_V1.png,2,"He leans over the plate, alone in the room.","Does this photograph fit the following description: ""He leans over the plate, alone in the room.""?",yes
+SB-P4,SB-P4_V1.png,3,Bright side light with rising steam.,"Does this photograph fit the following description: ""Bright side light with rising steam.""?",yes
+SB-P4,SB-P4_V1.png,4,Steel greys and white.,"Does this photograph fit the following description: ""Steel greys and white.""?",yes
+SB-P4,SB-P4_I2.png,1,A chef plates a dish in a restaurant kitchen.,"Does this photograph fit the following description: ""A chef plates a dish in a restaurant kitchen.""?",yes
+SB-P4,SB-P4_I2.png,2,"He leans over the plate, alone in the room.","Does this photograph fit the following description: ""He leans over the plate, alone in the room.""?",yes
+SB-P4,SB-P4_I2.png,3,Bright side light with rising steam.,"Does this photograph fit the following description: ""Bright side light with rising steam.""?",yes
+SB-P4,SB-P4_I2.png,4,Steel greys and white.,"Does this photograph fit the following description: ""Steel greys and white.""?",yes
+SB-P5,SB-P5_V1.png,1,A man waits at a bus stop at dusk.,"Does this photograph fit the following description: ""A man waits at a bus stop at dusk.""?",yes
+SB-P5,SB-P5_V1.png,2,He stands under the shelter with his hands in his pockets.,"Does this photograph fit the following description: ""He stands under the shelter with his hands in his pockets.""?",yes
+SB-P5,SB-P5_V1.png,3,The shelter's light is on.,"Does this photograph fit the following description: ""The shelter's light is on.""?",yes
+SB-P5,SB-P5_V1.png,4,Deep blues and warm yellow.,"Does this photograph fit the following description: ""Deep blues and warm yellow.""?",yes
+SB-P5,SB-P5_I2.png,1,A man waits at a bus stop at dusk.,"Does this photograph fit the following description: ""A man waits at a bus stop at dusk.""?",yes
+SB-P5,SB-P5_I2.png,2,He stands under the shelter with his hands in his pockets.,"Does this photograph fit the following description: ""He stands under the shelter with his hands in his pockets.""?",yes
+SB-P5,SB-P5_I2.png,3,The shelter's light is on.,"Does this photograph fit the following description: ""The shelter's light is on.""?",yes
+SB-P5,SB-P5_I2.png,4,Deep blues and warm yellow.,"Does this photograph fit the following description: ""Deep blues and warm yellow.""?",yes
+SB-P6,SB-P6_V1.png,1,A girl feeds ducks at the edge of a pond.,"Does this photograph fit the following description: ""A girl feeds ducks at the edge of a pond.""?",yes
+SB-P6,SB-P6_V1.png,2,"She crouches on the grass holding out bread, and a jogger runs along the far path.","Does this photograph fit the following description: ""She crouches on the grass holding out bread, and a jogger runs along the far path.""?",yes
+SB-P6,SB-P6_V1.png,3,Soft morning light.,"Does this photograph fit the following description: ""Soft morning light.""?",yes
+SB-P6,SB-P6_V1.png,4,Fresh greens and whites.,"Does this photograph fit the following description: ""Fresh greens and whites.""?",yes
+SB-P6,SB-P6_I2.png,1,A girl feeds ducks at the edge of a pond.,"Does this photograph fit the following description: ""A girl feeds ducks at the edge of a pond.""?",yes
+SB-P6,SB-P6_I2.png,2,"She crouches on the grass holding out bread, and a jogger runs along the far path.","Does this photograph fit the following description: ""She crouches on the grass holding out bread, and a jogger runs along the far path.""?",yes
+SB-P6,SB-P6_I2.png,3,Soft morning light.,"Does this photograph fit the following description: ""Soft morning light.""?",yes
+SB-P6,SB-P6_I2.png,4,Fresh greens and whites.,"Does this photograph fit the following description: ""Fresh greens and whites.""?",yes
+SB-N1,SB-N1_V1.png,1,A red canoe rests on the sand at the edge of a still lake.,"Does this photograph fit the following description: ""A red canoe rests on the sand at the edge of a still lake.""?",yes
+SB-N1,SB-N1_V1.png,2,It points toward the water.,"Does this photograph fit the following description: ""It points toward the water.""?",yes
+SB-N1,SB-N1_V1.png,3,A clear sky glows at sunset.,"Does this photograph fit the following description: ""A clear sky glows at sunset.""?",yes
+SB-N1,SB-N1_V1.png,4,Blues and warm golds.,"Does this photograph fit the following description: ""Blues and warm golds.""?",yes
+SB-N1,SB-N1_I2.png,1,A red canoe rests on the sand at the edge of a still lake.,"Does this photograph fit the following description: ""A red canoe rests on the sand at the edge of a still lake.""?",yes
+SB-N1,SB-N1_I2.png,2,It points toward the water.,"Does this photograph fit the following description: ""It points toward the water.""?",yes
+SB-N1,SB-N1_I2.png,3,A clear sky glows at sunset.,"Does this photograph fit the following description: ""A clear sky glows at sunset.""?",yes
+SB-N1,SB-N1_I2.png,4,Blues and warm golds.,"Does this photograph fit the following description: ""Blues and warm golds.""?",yes
+SB-N2,SB-N2_V1.png,1,A wooden chair stands against the wall of a long hallway.,"Does this photograph fit the following description: ""A wooden chair stands against the wall of a long hallway.""?",yes
+SB-N2,SB-N2_V1.png,2,A cat sleeps on its seat.,"Does this photograph fit the following description: ""A cat sleeps on its seat.""?",yes
+SB-N2,SB-N2_V1.png,3,Hard afternoon light from the far window.,"Does this photograph fit the following description: ""Hard afternoon light from the far window.""?",yes
+SB-N2,SB-N2_V1.png,4,Pale yellow walls and dark wood.,"Does this photograph fit the following description: ""Pale yellow walls and dark wood.""?",yes
+SB-N2,SB-N2_I2.png,1,A wooden chair stands against the wall of a long hallway.,"Does this photograph fit the following description: ""A wooden chair stands against the wall of a long hallway.""?",yes
+SB-N2,SB-N2_I2.png,2,A cat sleeps on its seat.,"Does this photograph fit the following description: ""A cat sleeps on its seat.""?",yes
+SB-N2,SB-N2_I2.png,3,Hard afternoon light from the far window.,"Does this photograph fit the following description: ""Hard afternoon light from the far window.""?",yes
+SB-N2,SB-N2_I2.png,4,Pale yellow walls and dark wood.,"Does this photograph fit the following description: ""Pale yellow walls and dark wood.""?",yes
+SB-N4,SB-N4_V1.png,1,A bowl of lemons on a marble counter by an open window.,"Does this photograph fit the following description: ""A bowl of lemons on a marble counter by an open window.""?",yes
+SB-N4,SB-N4_V1.png,2,"One lemon lies cut in half beside the bowl, and a sparrow perches on the windowsill.","Does this photograph fit the following description: ""One lemon lies cut in half beside the bowl, and a sparrow perches on the windowsill.""?",yes
+SB-N4,SB-N4_V1.png,3,Morning light from the window.,"Does this photograph fit the following description: ""Morning light from the window.""?",yes
+SB-N4,SB-N4_V1.png,4,Yellow and white.,"Does this photograph fit the following description: ""Yellow and white.""?",no
+SB-N5,SB-N5_V1.png,1,A white farmhouse on a low hill above a field.,"Does this photograph fit the following description: ""A white farmhouse on a low hill above a field.""?",yes
+SB-N5,SB-N5_V1.png,2,A wooden fence runs along the field.,"Does this photograph fit the following description: ""A wooden fence runs along the field.""?",yes
+SB-N5,SB-N5_V1.png,3,Morning fog lies over the field.,"Does this photograph fit the following description: ""Morning fog lies over the field.""?",yes
+SB-N5,SB-N5_V1.png,4,Soft greens and greys.,"Does this photograph fit the following description: ""Soft greens and greys.""?",yes
+SB-N5,SB-N5_I2.png,1,A white farmhouse on a low hill above a field.,"Does this photograph fit the following description: ""A white farmhouse on a low hill above a field.""?",yes
+SB-N5,SB-N5_I2.png,2,A wooden fence runs along the field.,"Does this photograph fit the following description: ""A wooden fence runs along the field.""?",yes
+SB-N5,SB-N5_I2.png,3,Morning fog lies over the field.,"Does this photograph fit the following description: ""Morning fog lies over the field.""?",yes
+SB-N5,SB-N5_I2.png,4,Soft greens and greys.,"Does this photograph fit the following description: ""Soft greens and greys.""?",yes
+SB-N6,SB-N6_V1.png,1,Two empty café tables on a terrace at night.,"Does this photograph fit the following description: ""Two empty café tables on a terrace at night.""?",yes
+SB-N6,SB-N6_V1.png,2,Chairs are pushed in around them.,"Does this photograph fit the following description: ""Chairs are pushed in around them.""?",yes
+SB-N6,SB-N6_V1.png,3,Strings of lights above the tables are lit.,"Does this photograph fit the following description: ""Strings of lights above the tables are lit.""?",yes
+SB-N6,SB-N6_V1.png,4,Warm golds against dark blue.,"Does this photograph fit the following description: ""Warm golds against dark blue.""?",yes
+SB-N6,SB-N6_I2.png,1,Two empty café tables on a terrace at night.,"Does this photograph fit the following description: ""Two empty café tables on a terrace at night.""?",yes
+SB-N6,SB-N6_I2.png,2,Chairs are pushed in around them.,"Does this photograph fit the following description: ""Chairs are pushed in around them.""?",yes
+SB-N6,SB-N6_I2.png,3,Strings of lights above the tables are lit.,"Does this photograph fit the following description: ""Strings of lights above the tables are lit.""?",yes
+SB-N6,SB-N6_I2.png,4,Warm golds against dark blue.,"Does this photograph fit the following description: ""Warm golds against dark blue.""?",yes
+SB-N4,SB-N4_I2.png,1,A bowl of lemons on a marble counter by an open window.,"Does this photograph fit the following description: ""A bowl of lemons on a marble counter by an open window.""?",yes
+SB-N4,SB-N4_I2.png,2,"One lemon lies cut in half beside the bowl, and a sparrow perches on the windowsill.","Does this photograph fit the following description: ""One lemon lies cut in half beside the bowl, and a sparrow perches on the windowsill.""?",yes
+SB-N4,SB-N4_I2.png,3,Morning light from the window.,"Does this photograph fit the following description: ""Morning light from the window.""?",yes
+SB-N4,SB-N4_I2.png,4,Yellow and white.,"Does this photograph fit the following description: ""Yellow and white.""?",no
+SB-R2,SB-R2_V1.png,1,A wooden pier stretches out over a calm sea.,"Does this photograph fit the following description: ""A wooden pier stretches out over a calm sea.""?",yes
+SB-R2,SB-R2_V1.png,2,A rowboat is tied to its last post.,"Does this photograph fit the following description: ""A rowboat is tied to its last post.""?",yes
+SB-R2,SB-R2_V1.png,3,Bright sun shines on the water.,"Does this photograph fit the following description: ""Bright sun shines on the water.""?",yes
+SB-R2,SB-R2_V1.png,4,Clear blues and pale wood.,"Does this photograph fit the following description: ""Clear blues and pale wood.""?",yes
+SB-R2,SB-R2_I2.png,1,A wooden pier stretches out over a calm sea.,"Does this photograph fit the following description: ""A wooden pier stretches out over a calm sea.""?",yes
+SB-R2,SB-R2_I2.png,2,A rowboat is tied to its last post.,"Does this photograph fit the following description: ""A rowboat is tied to its last post.""?",yes
+SB-R2,SB-R2_I2.png,3,Bright sun shines on the water.,"Does this photograph fit the following description: ""Bright sun shines on the water.""?",yes
+SB-R2,SB-R2_I2.png,4,Clear blues and pale wood.,"Does this photograph fit the following description: ""Clear blues and pale wood.""?",yes

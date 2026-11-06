@@ -1,0 +1,107 @@
+{
+  "rule": {
+    "written_before": "any image of this run was generated; values are filled from the first batch and frozen before any acceptance decision",
+    "first_batch": "Candidate 1 of V1 for each of the twelve main scenes SB-P1 to SB-P6 and SB-N1 to SB-N6, generated from plan version 1 with no revision. Reserve scenes use the same frozen values.",
+    "detector_score_cut": "The midpoint, rounded to two decimals, between (a) the median, over the twelve first-batch images, of the best detector score for each main-element query of the image's scene (one value per query and image; the main elements are those its placement sentence names), and (b) the highest best score that any first-batch image gives to any of five decoy queries naming animals absent from every plan: a giraffe, an elephant, a zebra, a kangaroo, a camel. A query counts as found when a box scores at or above the cut.",
+    "scale_cut": "The median, rounded to two decimals, of the share of the frame covered by the main-element box (the smallest box enclosing the best box of each main element; for SB-N6 the two best distinct table boxes), over the first-batch images whose main elements are all found at the score cut.",
+    "fixed_constants_set_before_any_image": {
+      "same_object": "two boxes are the same object when intersection over union >= 0.30 or >= 70 percent of the smaller box lies inside the larger",
+      "side_boundary": "half the image width (centre x share 0.5): left means < 0.5, right means > 0.5",
+      "record_floor": "boxes scoring >= 0.05 are recorded (the best box of each query is always recorded); recording only",
+      "decoys": [
+        "a giraffe",
+        "an elephant",
+        "a zebra",
+        "a kangaroo",
+        "a camel"
+      ],
+      "main_element_queries": "the placement sentence's subject, 'The/her' replaced by 'a/an', one query per noun joined by 'and', head noun only (an 'of ...' complement dropped: SB-N4 'a bowl'); 'The two tables': 'a table', two best distinct boxes"
+    }
+  },
+  "rule_written_utc": "2026-10-27T22:29:20+00:00",
+  "bank_sha256": "05a8ef29179a310af3a0b25b37c891f2941607664848f751c19c20b8b37019b2",
+  "image_model": "gemini-3-pro-image",
+  "values": {
+    "detector_score_cut": 0.29,
+    "scale_cut": 0.16
+  },
+  "inputs": {
+    "median_main_element_best_score": 0.5033,
+    "max_decoy_best_score": 0.0707,
+    "n_main_element_scores": 15,
+    "n_decoy_scores": 60,
+    "first_batch_main_box_areas": {
+      "SB-P1": 0.2577,
+      "SB-P2": 0.115,
+      "SB-P3": 0.0817,
+      "SB-P5": 0.415,
+      "SB-P6": 0.155,
+      "SB-N1": 0.1682,
+      "SB-N2": 0.0993,
+      "SB-N3": 0.0008,
+      "SB-N4": 0.0652,
+      "SB-N5": 0.1703,
+      "SB-N6": 0.2517
+    },
+    "first_batch_files": {
+      "SB-P1": "candidates/SB-P1_V1_c01.png",
+      "SB-P2": "candidates/SB-P2_V1_c01.png",
+      "SB-P3": "candidates/SB-P3_V1_c01.png",
+      "SB-P4": "candidates/SB-P4_V1_c01.png",
+      "SB-P5": "candidates/SB-P5_V1_c01.png",
+      "SB-P6": "candidates/SB-P6_V1_c01.png",
+      "SB-N1": "candidates/SB-N1_V1_c01.png",
+      "SB-N2": "candidates/SB-N2_V1_c01.png",
+      "SB-N3": "candidates/SB-N3_V1_c01.png",
+      "SB-N4": "candidates/SB-N4_V1_c01.png",
+      "SB-N5": "candidates/SB-N5_V1_c01.png",
+      "SB-N6": "candidates/SB-N6_V1_c01.png"
+    },
+    "first_batch_main_box_areas_unrounded": {
+      "SB-P1": 0.25766033,
+      "SB-P2": 0.11497656,
+      "SB-P3": 0.08165975,
+      "SB-P5": 0.41496883,
+      "SB-P6": 0.15502906,
+      "SB-N1": 0.16815681,
+      "SB-N2": 0.09926985,
+      "SB-N3": 0.0007506,
+      "SB-N4": 0.06521566,
+      "SB-N5": 0.17028606,
+      "SB-N6": 0.25168559
+    }
+  },
+  "frozen_utc": "2026-10-27T22:32:23+00:00",
+  "superseded_values": [
+    {
+      "scale_cut": 0.15,
+      "frozen_utc": "2026-10-27T22:32:23+00:00",
+      "superseded_utc": "2026-10-27",
+      "why": "computed by rounding twice (areas to four decimals, then the median to two with Python round(), which returns 0.155 as 0.15)"
+    }
+  ],
+  "corrections": [
+    {
+      "date": "27 October 2026",
+      "decided_by": "the coordinator, on David's study, after the run report",
+      "change": "scale_cut 0.15 -> 0.16",
+      "reason": "The written rule takes the median of the first-batch main-element box areas and rounds it to two decimals. The script rounded twice: each area to four decimals (SB-P6 V1 0.15502906 -> 0.155), then the median 0.155 to two decimals with Python round(), which gives 0.15 because 0.155 is stored in binary as slightly less than 0.155.",
+      "median_unrounded": 0.15502906,
+      "rule": "unchanged; 0.16 is the written rule applied once: the unrounded median rounded half-up to two decimals",
+      "detector_score_cut": "unchanged at 0.29 (unrounded midpoint 0.287 gives 0.29 under either rounding)",
+      "consequence": "Every decision that uses the scale cut was re-judged in candidate order at 0.16; see setB/README.md and manifest.csv."
+    }
+  ],
+  "amendments": [
+    {
+      "date": "27 October 2026",
+      "name": "plan-faithfulness condition",
+      "status": "decided before any participant data; color sentence excluded as too vague to judge",
+      "decided_by": "the coordinator, on David's study, after the plan-sentence diagnostic",
+      "reason": "B1 tells participants that the image matches Alex's plan, and B2's matches/departs manipulation depends on it; the diagnostic showed content misses in SB-P2 V1, SB-P3 I2, SB-N3 V1, SB-N4 I2 and SB-N6 I2.",
+      "condition": "every Set B file, V1 and I2: the description model answers yes to 'Does this photograph fit the following description: \"<sentence>\"?' for each of plan version 1's first three sentences (subject, arrangement, light); the fourth (colors) stays a recorded diagnostic only",
+      "how_applied": "asked of every new candidate; for earlier candidates asked only where it decides (the candidate passes every other check); answers already recorded by the plan-sentence diagnostic for the same question and the same image are reused. Candidate order still decides acceptance; every accepted file was re-judged in order; the 20-try rule and the one recorded revision apply per file; no reserve swap without the orchestrator.",
+      "thresholds": "unchanged (score cut 0.29, scale cut 0.16)"
+    }
+  ]
+}

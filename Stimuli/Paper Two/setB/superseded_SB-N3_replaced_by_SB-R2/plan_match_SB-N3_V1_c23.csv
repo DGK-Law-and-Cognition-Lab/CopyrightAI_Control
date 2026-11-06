@@ -1,0 +1,5 @@
+scene,file,sentence_no,sentence,question,answer
+SB-N3,SB-N3_V1.png,1,A city street at night after rain.,"Does this photograph fit the following description: ""A city street at night after rain.""?",yes
+SB-N3,SB-N3_V1.png,2,One car is parked at the curb.,"Does this photograph fit the following description: ""One car is parked at the curb.""?",yes
+SB-N3,SB-N3_V1.png,3,"The streetlights are on, and the corner shop window is lit.","Does this photograph fit the following description: ""The streetlights are on, and the corner shop window is lit.""?",yes
+SB-N3,SB-N3_V1.png,4,Deep blues with orange highlights.,"Does this photograph fit the following description: ""Deep blues with orange highlights.""?",yes

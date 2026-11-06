@@ -1,0 +1,5 @@
+scene,file,sentence_no,sentence,question,answer
+SB-N4,SB-N4_I2.png,1,A bowl of lemons on a marble counter by an open window.,"Does this photograph fit the following description: ""A bowl of lemons on a marble counter by an open window.""?",yes
+SB-N4,SB-N4_I2.png,2,"One lemon lies cut in half beside the bowl, and a sparrow perches on the windowsill.","Does this photograph fit the following description: ""One lemon lies cut in half beside the bowl, and a sparrow perches on the windowsill.""?",no
+SB-N4,SB-N4_I2.png,3,Morning light from the window.,"Does this photograph fit the following description: ""Morning light from the window.""?",yes
+SB-N4,SB-N4_I2.png,4,Yellow and white.,"Does this photograph fit the following description: ""Yellow and white.""?",no

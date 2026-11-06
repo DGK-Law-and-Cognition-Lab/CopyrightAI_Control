@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Artistic Perception Experiment</title>
+<link rel="stylesheet" href="style.css?v=1.7.0">
+</head>
+<body>
+<div id="loading-screen"><div class="spinner"></div><p style="font-family:Georgia;color:#6c757d">Loading experiment...</p></div>
+<div class="container" style="display:none" id="experimentContainer">
+<div class="progress-bar"><div class="progress-fill" id="progressFill" style="width:0%"></div></div>
+<div id="pageContainer"></div>
+</div>
+<!-- config.js holds every study-specific string and formula; engine.js is the
+     shared engine (a copy of ../engine/engine.js, checked by the deploy script). -->
+<script src="config.js?v=1.2.0" charset="utf-8"></script>
+<script src="engine.js?v=1.7.0" charset="utf-8"></script>
+</body>
+</html>

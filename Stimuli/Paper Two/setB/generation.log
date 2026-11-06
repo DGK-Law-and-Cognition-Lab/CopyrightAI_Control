@@ -1,0 +1,848 @@
+15:29:20 threshold rule written to thresholds.json
+15:29:20 ledgers: Set B $27.27 + Set A $12.64 (cap $100); this run so far $0.00; soft cap $25.00
+15:29:46 SB-P2_V1_c01: made (14.9 s, $0.14)
+15:29:46 SB-P3_V1_c01: made (15.2 s, $0.14)
+15:29:46 SB-P1_V1_c01: made (15.4 s, $0.14)
+15:30:26 SB-P4_V1_c01: made (15.4 s, $0.14)
+15:30:33 SB-P5_V1_c01: made (13.9 s, $0.14)
+15:30:47 SB-P6_V1_c01: made (15.6 s, $0.14)
+15:30:59 SB-N1_V1_c01: made (15.5 s, $0.14)
+15:31:09 SB-N2_V1_c01: made (15.0 s, $0.14)
+15:31:23 SB-N3_V1_c01: made (16.3 s, $0.14)
+15:31:34 SB-N4_V1_c01: made (15.1 s, $0.14)
+15:31:46 SB-N5_V1_c01: made (16.1 s, $0.14)
+15:32:01 SB-N6_V1_c01: made (15.4 s, $0.14)
+15:32:23 thresholds frozen: score cut 0.29, scale cut 0.15
+15:32:24 SB-P1 V1 c01: ACCEPTED  main_area=0.2577 cx=0.7149 desc=yes det=None
+15:32:24 SB-P1: V1 accepted (c01); placement sentence: The woman and her armchair are on the left side of the frame, small, seen from farther away.
+15:32:25 SB-P2 V1 c01: ACCEPTED  main_area=0.115 cx=0.6027 desc=yes det=True
+15:32:25 SB-P2: V1 accepted (c01); placement sentence: The man and the bicycle are on the left side of the frame, large, seen from close by.
+15:32:25 SB-P3 V1 c01: rejected ['text'] main_area=0.0817 cx=0.4713 desc=yes det=None
+15:32:38 SB-P1_I2_c01: made (14.1 s, $0.14)
+15:32:41 SB-P3_V1_c02: made (16.0 s, $0.14)
+15:32:42 SB-P2_I2_c01: made (16.4 s, $0.14)
+15:32:54 SB-P1 I2 c01: rejected ['placement'] main_area=0.2706 cx=0.2822 desc=yes det=None
+15:33:07 SB-P3 V1 c02: rejected ['text'] main_area=0.047 cx=0.3845 desc=yes det=None
+15:33:11 SB-P1_I2_c02: made (16.5 s, $0.14)
+15:33:19 SB-P2 I2 c01: rejected ['placement'] main_area=0.1373 cx=0.3691 desc=yes det=True
+15:33:23 SB-P3_V1_c03: made (16.4 s, $0.14)
+15:33:29 SB-P1 I2 c02: rejected ['placement'] main_area=0.1858 cx=0.2056 desc=yes det=None
+15:33:36 SB-P2_I2_c02: made (17.1 s, $0.14)
+15:33:41 SB-P3 V1 c03: ACCEPTED  main_area=0.0416 cx=0.4983 desc=yes det=None
+15:33:41 SB-P3: V1 accepted (c03); placement sentence: The young woman is on the right side of the frame, large, seen from close by.
+15:33:45 SB-P1_I2_c03: made (15.9 s, $0.14)
+15:33:52 SB-P2 I2 c02: ACCEPTED  main_area=0.4456 cx=0.3288 desc=yes det=True
+15:33:53 SB-P4 V1 c01: rejected ['main elements'] main_area=None cx=None desc=yes det=True
+15:33:58 SB-P3_I2_c01: made (17.1 s, $0.14)
+15:34:08 SB-P1 I2 c03: rejected ['text', 'placement'] main_area=0.2343 cx=0.2387 desc=yes det=None
+15:34:08 SB-P4_V1_c02: made (15.4 s, $0.14)
+15:34:23 SB-P3 I2 c01: rejected ['text'] main_area=0.2228 cx=0.7103 desc=yes det=None
+15:34:25 SB-P1_I2_c04: made (17.1 s, $0.14)
+15:34:39 SB-P4 V1 c02: rejected ['text'] main_area=0.1909 cx=0.3916 desc=yes det=True
+15:34:39 SB-P3_I2_c02: made (16.2 s, $0.14)
+15:34:52 SB-P4_V1_c03: no image returned (finishReason OTHER); retrying
+15:34:57 SB-P1 I2 c04: rejected ['placement'] main_area=0.2417 cx=0.3971 desc=yes det=None
+15:35:11 SB-P1_I2_c05: made (14.5 s, $0.14)
+15:35:15 SB-P3 I2 c02: rejected ['text'] main_area=0.4286 cx=0.7746 desc=yes det=None
+15:35:18 SB-P4_V1_c03: made (15.5 s, $0.14)
+15:35:28 SB-P1 I2 c05: rejected ['placement'] main_area=0.2503 cx=0.318 desc=yes det=None
+15:35:31 SB-P3_I2_c03: made (15.6 s, $0.14)
+15:35:44 SB-P1_I2_c06: made (16.1 s, $0.14)
+15:35:45 SB-P4 V1 c03: rejected ['text'] main_area=0.1318 cx=0.5927 desc=yes det=True
+15:35:59 SB-P3 I2 c03: rejected ['placement'] main_area=0.1336 cx=0.7355 desc=yes det=None
+15:36:02 SB-P4_V1_c04: made (16.8 s, $0.14)
+15:36:16 SB-P3_I2_c04: made (16.5 s, $0.14)
+15:36:16 SB-P1 I2 c06: rejected ['text', 'placement'] main_area=0.2382 cx=0.24 desc=yes det=None
+15:36:29 SB-P4 V1 c04: rejected ['main elements'] main_area=None cx=None desc=yes det=True
+15:36:32 SB-P1_I2_c07: made (15.8 s, $0.14)
+15:36:40 SB-P3 I2 c04: rejected ['main elements', 'text', 'placement'] main_area=None cx=None desc=yes det=None
+15:36:44 SB-P4_V1_c05: made (15.3 s, $0.14)
+15:36:51 SB-P1 I2 c07: rejected ['text', 'placement'] main_area=0.2898 cx=0.6975 desc=yes det=None
+15:36:55 SB-P3_I2_c05: made (15.5 s, $0.14)
+15:37:07 SB-P1_I2_c08: made (15.8 s, $0.14)
+15:37:07 SB-P4 V1 c05: rejected ['main elements'] main_area=None cx=None desc=yes det=True
+15:37:22 SB-P4_V1_c06: made (15.1 s, $0.14)
+15:37:25 SB-P3 I2 c05: ACCEPTED  main_area=0.1927 cx=0.7024 desc=yes det=None
+15:37:27 SB-P5 V1 c01: rejected ['text'] main_area=0.415 cx=0.3788 desc=yes det=None
+15:37:44 SB-P5_V1_c02: made (17.1 s, $0.14)
+15:37:45 SB-P1 I2 c08: rejected ['text', 'placement'] main_area=0.289 cx=0.2824 desc=yes det=None
+15:37:56 SB-P4 V1 c06: rejected ['main elements'] main_area=None cx=None desc=yes det=True
+15:38:03 SB-P1_I2_c09: made (17.7 s, $0.14)
+15:38:04 SB-P5 V1 c02: rejected ['text'] main_area=0.5085 cx=0.4036 desc=yes det=None
+15:38:13 SB-P4_V1_c07: made (16.9 s, $0.14)
+15:38:22 SB-P5_V1_c03: made (17.4 s, $0.14)
+15:38:24 SB-P1 I2 c09: rejected ['placement'] main_area=0.3103 cx=0.2422 desc=yes det=None
+15:38:29 SB-P4 V1 c07: ACCEPTED  main_area=0.1302 cx=0.3954 desc=yes det=True
+15:38:29 SB-P4: V1 accepted (c07); placement sentence: The chef is on the right side of the frame, large, seen from close by.
+15:38:40 SB-P1_I2_c10: made (16.0 s, $0.14)
+15:38:46 SB-P4_I2_c01: made (16.5 s, $0.14)
+15:38:46 SB-P5 V1 c03: rejected ['main elements'] main_area=None cx=None desc=yes det=None
+15:38:56 SB-P1 I2 c10: rejected ['text', 'placement'] main_area=0.2887 cx=0.3387 desc=yes det=None
+15:39:03 SB-P5_V1_c04: made (16.9 s, $0.14)
+15:39:11 SB-P1_I2_c11: made (15.0 s, $0.14)
+15:39:14 SB-P4 I2 c01: ACCEPTED  main_area=0.465 cx=0.7505 desc=yes det=True
+15:39:15 SB-P6 V1 c01: ACCEPTED  main_area=0.155 cx=0.6667 desc=yes det=True
+15:39:15 SB-P6: V1 accepted (c01); placement sentence: The girl is on the left side of the frame, small, seen from farther away.
+15:39:31 SB-P5 V1 c04: rejected ['main elements', 'text'] main_area=None cx=None desc=yes det=None
+15:39:31 SB-P6_I2_c01: made (16.2 s, $0.14)
+15:39:48 SB-P5_V1_c05: made (17.7 s, $0.14)
+15:39:51 SB-P1 I2 c11: rejected ['placement'] main_area=0.2066 cx=0.2723 desc=yes det=None
+15:40:03 SB-P6 I2 c01: ACCEPTED  main_area=0.1164 cx=0.2505 desc=yes det=True
+15:40:03 SB-N1 V1 c01: rejected ['feature'] main_area=0.1682 cx=0.648 desc=no det=None
+15:40:08 SB-P1_I2_c12: made (17.0 s, $0.14)
+15:40:19 SB-N1_V1_c02: made (15.9 s, $0.14)
+15:40:24 SB-P5 V1 c05: rejected ['text'] main_area=0.5835 cx=0.5212 desc=yes det=None
+15:40:31 SB-P1 I2 c12: rejected ['text', 'placement'] main_area=0.412 cx=0.2771 desc=yes det=None
+15:40:40 SB-P5_V1_c06: made (16.5 s, $0.14)
+15:40:45 SB-N1 V1 c02: rejected ['feature'] main_area=0.1611 cx=0.3534 desc=no det=None
+15:40:48 SB-P1_I2_c13: made (16.5 s, $0.14)
+15:41:00 SB-N1_V1_c03: no image returned (finishReason OTHER); retrying
+15:41:08 SB-P5 V1 c06: rejected ['text'] main_area=0.3115 cx=0.6948 desc=yes det=None
+15:41:25 SB-P5_V1_c07: made (16.9 s, $0.14)
+15:41:27 SB-N1_V1_c03: made (16.6 s, $0.14)
+15:41:31 SB-P1 I2 c13: rejected ['placement'] main_area=0.3023 cx=0.7298 desc=yes det=None
+15:41:49 SB-P1_I2_c14: made (18.2 s, $0.14)
+15:41:55 SB-P5 V1 c07: rejected ['text'] main_area=0.5259 cx=0.5934 desc=yes det=None
+15:42:12 SB-P5_V1_c08: made (17.0 s, $0.14)
+15:42:21 SB-N1 V1 c03: ACCEPTED  main_area=0.2707 cx=0.4049 desc=yes det=None
+15:42:21 SB-N1: V1 accepted (c03); placement sentence: The canoe is on the right side of the frame, small, seen from farther away.
+15:42:30 SB-P1 I2 c14: rejected ['placement'] main_area=0.3233 cx=0.2604 desc=yes det=None
+15:42:37 SB-N1_I2_c01: made (15.1 s, $0.14)
+15:42:42 SB-P5 V1 c08: ACCEPTED  main_area=0.6694 cx=0.5425 desc=yes det=None
+15:42:42 SB-P5: V1 accepted (c08); placement sentence: The man and the bus shelter are on the left side of the frame, small, seen from farther away.
+15:42:47 SB-P1_I2_c15: made (16.8 s, $0.14)
+15:42:51 SB-N1 I2 c01: ACCEPTED  main_area=0.0944 cx=0.6979 desc=yes det=None
+15:42:51 SB-N2 V1 c01: rejected ['text'] main_area=0.0993 cx=0.3795 desc=yes det=True
+15:42:57 SB-P5_I2_c01: made (15.1 s, $0.14)
+15:43:03 SB-P1 I2 c15: rejected ['placement'] main_area=0.2985 cx=0.3161 desc=yes det=None
+15:43:06 SB-N2_V1_c02: made (14.5 s, $0.14)
+15:43:12 SB-P5 I2 c01: rejected ['text', 'placement'] main_area=0.3527 cx=0.2266 desc=yes det=None
+15:43:18 SB-P1_I2_c16: made (14.7 s, $0.14)
+15:43:25 SB-N2 V1 c02: ACCEPTED  main_area=0.1276 cx=0.4562 desc=yes det=True
+15:43:25 SB-N2: V1 accepted (c02); placement sentence: The chair is on the right side of the frame, large, seen from close by.
+15:43:28 SB-P5_I2_c02: made (15.1 s, $0.14)
+15:43:30 SB-P1 I2 c16: rejected ['placement'] main_area=0.2012 cx=0.2571 desc=yes det=None
+15:43:42 SB-N2_I2_c01: made (16.4 s, $0.14)
+15:43:46 SB-P1_I2_c17: made (15.2 s, $0.14)
+15:43:46 SB-P5 I2 c02: rejected ['text'] main_area=0.1456 cx=0.2868 desc=yes det=None
+15:43:58 SB-N2 I2 c01: ACCEPTED  main_area=0.2337 cx=0.6865 desc=yes det=True
+15:43:58 SB-N3 V1 c01: rejected ['text'] main_area=0.0008 cx=0.261 desc=yes det=None
+15:44:03 SB-P5_I2_c03: made (16.6 s, $0.14)
+15:44:11 SB-P1 I2 c17: rejected ['text', 'placement'] main_area=0.1923 cx=0.3024 desc=yes det=None
+15:44:14 SB-N3_V1_c02: made (15.5 s, $0.14)
+15:44:23 SB-P5 I2 c03: rejected ['text', 'placement'] main_area=0.3776 cx=0.2511 desc=yes det=None
+15:44:27 SB-P1_I2_c18: made (16.0 s, $0.14)
+15:44:40 SB-P5_I2_c04: made (16.4 s, $0.14)
+15:44:42 SB-N3 V1 c02: rejected ['text'] main_area=0.0051 cx=0.2719 desc=yes det=None
+15:44:56 SB-P1 I2 c18: rejected ['placement'] main_area=0.2611 cx=0.337 desc=yes det=None
+15:44:57 SB-N3_V1_c03: made (15.3 s, $0.14)
+15:45:09 SB-P5 I2 c04: rejected ['text', 'placement'] main_area=0.2703 cx=0.278 desc=yes det=None
+15:45:11 SB-P1_I2_c19: made (15.3 s, $0.14)
+15:45:20 SB-N3 V1 c03: rejected ['text'] main_area=0.0027 cx=0.985 desc=yes det=None
+15:45:24 SB-P5_I2_c05: made (15.2 s, $0.14)
+15:45:29 SB-P1 I2 c19: rejected ['text', 'placement'] main_area=0.1871 cx=0.3103 desc=yes det=None
+15:45:37 SB-N3_V1_c04: made (16.2 s, $0.14)
+15:45:42 SB-P5 I2 c05: rejected ['text', 'placement'] main_area=0.3537 cx=0.2192 desc=yes det=None
+15:45:46 SB-P1_I2_c20: made (16.7 s, $0.14)
+15:45:54 SB-N3 V1 c04: rejected ['text'] main_area=0.0006 cx=0.6872 desc=yes det=None
+15:45:57 SB-P5_I2_c06: made (15.6 s, $0.14)
+15:46:08 SB-P1 I2 c20: rejected ['placement'] main_area=0.3171 cx=0.2895 desc=yes det=None
+15:46:08 SB-P1 I2: 20 failures; prompt revision (placement): The photograph clearly shows the woman and her armchair on the left side of the frame, small, seen from farther away.
+15:46:13 SB-N3_V1_c05: made (18.6 s, $0.14)
+15:46:23 SB-P1_I2_c21: made (15.4 s, $0.14)
+15:46:23 SB-P5 I2 c06: rejected ['text', 'placement'] main_area=0.3106 cx=0.1852 desc=yes det=None
+15:46:35 SB-N3 V1 c05: rejected ['text'] main_area=0.0319 cx=0.7308 desc=yes det=None
+15:46:39 SB-P5_I2_c07: made (15.5 s, $0.14)
+15:46:50 SB-P1 I2 c21: rejected ['text', 'placement'] main_area=0.2691 cx=0.2795 desc=yes det=None
+15:46:51 SB-N3_V1_c06: made (15.9 s, $0.14)
+15:46:58 SB-P5 I2 c07: rejected ['text', 'placement'] main_area=0.2804 cx=0.2412 desc=yes det=None
+15:47:06 SB-P1_I2_c22: made (16.4 s, $0.14)
+15:47:14 SB-N3 V1 c06: rejected ['text'] main_area=0.0049 cx=0.8947 desc=yes det=None
+15:47:14 SB-P5_I2_c08: made (15.8 s, $0.14)
+15:47:30 SB-N3_V1_c07: made (16.5 s, $0.14)
+15:47:30 SB-P1 I2 c22: rejected ['text', 'placement'] main_area=0.2311 cx=0.3488 desc=yes det=None
+15:47:47 SB-P1_I2_c23: made (16.5 s, $0.14)
+15:47:48 SB-P5 I2 c08: rejected ['text', 'placement'] main_area=0.4496 cx=0.2349 desc=yes det=None
+15:48:05 SB-P5_I2_c09: made (17.1 s, $0.14)
+15:48:05 SB-N3 V1 c07: rejected ['text'] main_area=0.0037 cx=0.2142 desc=yes det=None
+15:48:15 SB-P1 I2 c23: rejected ['placement'] main_area=0.1852 cx=0.2938 desc=yes det=None
+15:48:21 SB-N3_V1_c08: made (16.3 s, $0.14)
+15:48:26 SB-P5 I2 c09: rejected ['text', 'placement'] main_area=0.4002 cx=0.2697 desc=yes det=None
+15:48:31 SB-P1_I2_c24: made (15.6 s, $0.14)
+15:48:40 SB-N3 V1 c08: rejected ['text'] main_area=0.0046 cx=0.5181 desc=yes det=None
+15:48:42 SB-P5_I2_c10: made (15.9 s, $0.14)
+15:48:53 SB-P1 I2 c24: rejected ['text', 'placement'] main_area=0.2573 cx=0.3078 desc=yes det=None
+15:48:56 SB-N3_V1_c09: made (16.4 s, $0.14)
+15:49:06 SB-P5 I2 c10: rejected ['text', 'placement'] main_area=0.1877 cx=0.3314 desc=yes det=None
+15:49:08 SB-P1_I2_c25: made (15.3 s, $0.14)
+15:49:18 SB-N3 V1 c09: rejected ['text'] main_area=0.0017 cx=0.2972 desc=yes det=None
+15:49:21 SB-P5_I2_c11: made (14.9 s, $0.14)
+15:49:30 SB-P1 I2 c25: rejected ['text', 'placement'] main_area=0.2381 cx=0.2422 desc=yes det=None
+15:49:33 SB-N3_V1_c10: made (15.2 s, $0.14)
+15:49:45 SB-P1_I2_c26: made (15.3 s, $0.14)
+15:49:45 SB-P5 I2 c11: rejected ['text', 'placement'] main_area=0.2253 cx=0.2319 desc=yes det=None
+15:49:56 SB-N3 V1 c10: rejected ['text'] main_area=0.0013 cx=0.4151 desc=yes det=None
+15:50:01 SB-P5_I2_c12: made (15.7 s, $0.14)
+15:50:07 SB-P1 I2 c26: ACCEPTED  main_area=0.1465 cx=0.3739 desc=yes det=None
+15:50:08 SB-N4 V1 c01: ACCEPTED  main_area=0.0652 cx=0.2844 desc=yes det=True
+15:50:08 SB-N4: V1 accepted (c01); placement sentence: The bowl of lemons is on the right side of the frame, large, seen from close by.
+15:50:13 SB-N3_V1_c11: made (16.8 s, $0.14)
+15:50:21 SB-P5 I2 c12: rejected ['text', 'placement'] main_area=0.1988 cx=0.2349 desc=yes det=None
+15:50:23 SB-N4_I2_c01: made (14.8 s, $0.14)
+15:50:33 SB-N3 V1 c11: rejected ['text'] main_area=0.0082 cx=0.06 desc=yes det=None
+--- run limited to SB-N4,SB-N5,SB-N6 (SB-P1 I2, SB-P5 I2, SB-N3 held for a decision) Tue Oct 27 15:51:51 PDT 2026
+15:51:53 ledgers: Set B $39.87 + Set A $17.87 (cap $100); this run so far $12.60; soft cap $25.00
+15:52:02 SB-N6 V1 c01: rejected ['text'] main_area=0.2517 cx=0.5049 desc=yes det=None
+15:52:02 SB-N5 V1 c01: ACCEPTED  main_area=0.1703 cx=0.7333 desc=yes det=None
+15:52:02 SB-N5: V1 accepted (c01); placement sentence: The farmhouse is on the left side of the frame, small, seen from farther away.
+15:52:03 SB-N4 V1 c01: ACCEPTED  main_area=0.0652 cx=0.2844 desc=yes det=True
+15:52:03 SB-N4: V1 accepted (c01); placement sentence: The bowl of lemons is on the right side of the frame, large, seen from close by.
+15:52:18 SB-N6_V1_c02: made (15.5 s, $0.14)
+15:52:21 SB-N5_I2_c01: made (18.6 s, $0.14)
+15:52:24 SB-N4 I2 c01: rejected ['placement'] main_area=0.1091 cx=0.7675 desc=yes det=True
+15:52:35 SB-N6 V1 c02: ACCEPTED  main_area=0.2596 cx=0.4904 desc=yes det=None
+15:52:35 SB-N6: V1 accepted (c02); placement sentence: The two tables are on the right side of the frame, small, seen from farther away.
+15:52:42 SB-N4_I2_c02: made (17.5 s, $0.14)
+15:52:47 SB-N5 I2 c01: ACCEPTED  main_area=0.0622 cx=0.1417 desc=yes det=None
+15:52:52 SB-N6_I2_c01: made (17.6 s, $0.14)
+15:52:59 SB-N4 I2 c02: rejected ['placement'] main_area=0.0806 cx=0.6865 desc=yes det=True
+15:53:12 SB-N6 I2 c01: rejected ['main elements', 'placement'] main_area=None cx=None desc=yes det=None
+15:53:15 SB-N4_I2_c03: made (15.8 s, $0.14)
+15:53:28 SB-N6_I2_c02: made (16.5 s, $0.14)
+15:53:30 SB-N4 I2 c03: rejected ['placement'] main_area=0.1249 cx=0.7508 desc=yes det=True
+15:53:45 SB-N4_I2_c04: made (15.2 s, $0.14)
+15:53:46 SB-N6 I2 c02: ACCEPTED  main_area=0.1071 cx=0.8438 desc=yes det=None
+15:54:03 SB-N4 I2 c04: rejected ['placement'] main_area=0.1013 cx=0.7177 desc=yes det=True
+15:54:18 SB-N4_I2_c05: made (15.4 s, $0.14)
+15:54:45 SB-N4 I2 c05: rejected ['placement'] main_area=0.1393 cx=0.7376 desc=yes det=True
+15:55:02 SB-N4_I2_c06: made (16.8 s, $0.14)
+15:55:29 SB-N4 I2 c06: rejected ['placement'] main_area=0.1344 cx=0.8217 desc=yes det=True
+15:55:49 SB-N4_I2_c07: made (19.9 s, $0.14)
+15:56:07 SB-N4 I2 c07: rejected ['text', 'placement'] main_area=0.1095 cx=0.7473 desc=yes det=True
+15:56:24 SB-N4_I2_c08: made (16.6 s, $0.14)
+15:56:43 SB-N4 I2 c08: rejected ['placement'] main_area=0.1229 cx=0.7289 desc=yes det=True
+15:56:59 SB-N4_I2_c09: made (15.9 s, $0.14)
+15:57:23 SB-N4 I2 c09: rejected ['placement'] main_area=0.1144 cx=0.7672 desc=yes det=True
+15:57:39 SB-N4_I2_c10: made (15.9 s, $0.14)
+15:58:01 SB-N4 I2 c10: rejected ['text', 'placement'] main_area=0.1211 cx=0.742 desc=yes det=True
+15:58:17 SB-N4_I2_c11: made (16.6 s, $0.14)
+15:58:38 SB-N4 I2 c11: rejected ['placement'] main_area=0.0576 cx=0.7266 desc=yes det=True
+15:58:54 SB-N4_I2_c12: made (15.7 s, $0.14)
+15:59:17 SB-N4 I2 c12: rejected ['placement'] main_area=0.0506 cx=0.4142 desc=yes det=True
+15:59:34 SB-N4_I2_c13: made (16.6 s, $0.14)
+15:59:53 SB-N4 I2 c13: ACCEPTED  main_area=0.1563 cx=0.763 desc=yes det=True
+16:00:09 outputs: 21 accepted files, 106 candidates
+16:00:09 summary:
+16:00:09   SB-N4: accepted; V1 c1; I2 c13
+16:00:09   SB-N5: accepted; V1 c1; I2 c1
+16:00:09   SB-N6: accepted; V1 c2; I2 c2
+16:00:09 ledgers: Set B $42.14 + Set A $19.54; this run $14.88; accepted files 21
+--- run limited to SB-P5,SB-N3 Tue Oct 27 16:00:46 PDT 2026
+16:00:48 ledgers: Set B $42.14 + Set A $19.89 (cap $100); this run so far $14.88; soft cap $25.00
+16:00:53 SB-P5 V1 c01: rejected ['text'] main_area=0.415 cx=0.3788 desc=yes det=None
+16:00:53 SB-N3 V1 c01: rejected ['text'] main_area=0.0008 cx=0.261 desc=yes det=None
+16:00:53 SB-N3 V1 c02: rejected ['text'] main_area=0.0051 cx=0.2719 desc=yes det=None
+16:00:53 SB-P5 V1 c02: rejected ['text'] main_area=0.5085 cx=0.4036 desc=yes det=None
+16:00:53 SB-P5 V1 c03: rejected ['main elements'] main_area=None cx=None desc=yes det=None
+16:00:53 SB-N3 V1 c03: rejected ['text'] main_area=0.0027 cx=0.985 desc=yes det=None
+16:00:53 SB-P5 V1 c04: rejected ['main elements', 'text'] main_area=None cx=None desc=yes det=None
+16:00:53 SB-N3 V1 c04: rejected ['text'] main_area=0.0006 cx=0.6872 desc=yes det=None
+16:00:53 SB-P5 V1 c05: rejected ['text'] main_area=0.5835 cx=0.5212 desc=yes det=None
+16:00:53 SB-N3 V1 c05: rejected ['text'] main_area=0.0319 cx=0.7308 desc=yes det=None
+16:00:53 SB-P5 V1 c06: rejected ['text'] main_area=0.3115 cx=0.6948 desc=yes det=None
+16:00:53 SB-N3 V1 c06: rejected ['text'] main_area=0.0049 cx=0.8947 desc=yes det=None
+16:00:53 SB-P5 V1 c07: rejected ['text'] main_area=0.5259 cx=0.5934 desc=yes det=None
+16:00:53 SB-N3 V1 c07: rejected ['text'] main_area=0.0037 cx=0.2142 desc=yes det=None
+16:00:53 SB-P5 V1 c08: ACCEPTED  main_area=0.6694 cx=0.5425 desc=yes det=None
+16:00:53 SB-P5: V1 accepted (c08); placement sentence: The man and the bus shelter are on the left side of the frame, small, seen from farther away.
+16:00:53 SB-N3 V1 c08: rejected ['text'] main_area=0.0046 cx=0.5181 desc=yes det=None
+16:00:53 SB-P5 I2 c01: rejected ['text', 'placement'] main_area=0.3527 cx=0.2266 desc=yes det=None
+16:00:53 SB-N3 V1 c09: rejected ['text'] main_area=0.0017 cx=0.2972 desc=yes det=None
+16:00:53 SB-P5 I2 c02: rejected ['text'] main_area=0.1456 cx=0.2868 desc=yes det=None
+16:00:53 SB-N3 V1 c10: rejected ['text'] main_area=0.0013 cx=0.4151 desc=yes det=None
+16:00:53 SB-P5 I2 c03: rejected ['text', 'placement'] main_area=0.3776 cx=0.2511 desc=yes det=None
+16:00:53 SB-N3 V1 c11: rejected ['text'] main_area=0.0082 cx=0.06 desc=yes det=None
+16:00:53 SB-P5 I2 c04: rejected ['text', 'placement'] main_area=0.2703 cx=0.278 desc=yes det=None
+16:00:53 SB-P5 I2 c05: rejected ['text', 'placement'] main_area=0.3537 cx=0.2192 desc=yes det=None
+16:00:53 SB-P5 I2 c06: rejected ['text', 'placement'] main_area=0.3106 cx=0.1852 desc=yes det=None
+16:00:53 SB-P5 I2 c07: rejected ['text', 'placement'] main_area=0.2804 cx=0.2412 desc=yes det=None
+16:00:53 SB-P5 I2 c08: rejected ['text', 'placement'] main_area=0.4496 cx=0.2349 desc=yes det=None
+16:00:53 SB-P5 I2 c09: rejected ['text', 'placement'] main_area=0.4002 cx=0.2697 desc=yes det=None
+16:00:54 SB-P5 I2 c10: rejected ['text', 'placement'] main_area=0.1877 cx=0.3314 desc=yes det=None
+16:00:54 SB-P5 I2 c11: rejected ['text', 'placement'] main_area=0.2253 cx=0.2319 desc=yes det=None
+16:00:54 SB-P5 I2 c12: rejected ['text', 'placement'] main_area=0.1988 cx=0.2349 desc=yes det=None
+16:01:11 SB-N3_V1_c12: made (17.0 s, $0.14)
+16:01:12 SB-P5_I2_c13: made (18.2 s, $0.14)
+16:01:23 SB-N3 V1 c12: rejected ['text'] main_area=0.0017 cx=0.9271 desc=yes det=None
+16:01:31 SB-P5 I2 c13: rejected ['text', 'placement'] main_area=0.3315 cx=0.2346 desc=yes det=None
+16:01:39 SB-N3_V1_c13: made (15.7 s, $0.14)
+16:01:48 SB-P5_I2_c14: made (17.2 s, $0.14)
+16:01:55 SB-N3 V1 c13: rejected ['text'] main_area=0.0284 cx=0.3383 desc=yes det=None
+16:02:06 SB-P5 I2 c14: rejected ['text', 'placement'] main_area=0.3791 cx=0.214 desc=yes det=None
+16:02:11 SB-N3_V1_c14: made (16.1 s, $0.14)
+16:02:21 SB-P5_I2_c15: made (15.4 s, $0.14)
+16:02:23 SB-N3 V1 c14: rejected ['text'] main_area=0.002 cx=0.3048 desc=yes det=None
+16:02:35 SB-P5 I2 c15: rejected ['placement'] main_area=0.2972 cx=0.2944 desc=yes det=None
+16:02:40 SB-N3_V1_c15: made (16.8 s, $0.14)
+16:02:49 SB-P5_I2_c16: made (14.4 s, $0.14)
+16:02:51 SB-N3 V1 c15: rejected ['text'] main_area=0.054 cx=0.3551 desc=yes det=None
+16:03:00 SB-P5 I2 c16: rejected ['placement'] main_area=0.4584 cx=0.2696 desc=yes det=None
+16:03:05 SB-N3_V1_c16: made (14.2 s, $0.14)
+16:03:15 SB-P5_I2_c17: made (14.8 s, $0.14)
+16:03:18 SB-N3 V1 c16: ACCEPTED  main_area=0.0057 cx=0.6356 desc=yes det=None
+16:03:18 SB-N3: V1 accepted (c16); placement sentence: The parked car is on the left side of the frame, large, seen from close by.
+16:03:27 SB-P5 I2 c17: rejected ['placement'] main_area=0.2259 cx=0.2516 desc=yes det=None
+16:03:34 SB-N3_I2_c01: made (16.3 s, $0.14)
+16:03:43 SB-P5_I2_c18: made (15.5 s, $0.14)
+16:03:49 SB-N3 I2 c01: rejected ['text'] main_area=0.2435 cx=0.2117 desc=yes det=None
+16:03:56 SB-P5 I2 c18: rejected ['text', 'placement'] main_area=0.313 cx=0.275 desc=yes det=None
+16:04:05 SB-N3_I2_c02: made (16.3 s, $0.14)
+16:04:12 SB-P5_I2_c19: made (15.8 s, $0.14)
+16:04:22 SB-N3 I2 c02: rejected ['placement'] main_area=0.0047 cx=0.5016 desc=yes det=None
+16:04:38 SB-P5 I2 c19: rejected ['text', 'placement'] main_area=0.3509 cx=0.2641 desc=yes det=None
+16:04:40 SB-N3_I2_c03: made (17.3 s, $0.14)
+16:04:54 SB-P5_I2_c20: made (15.5 s, $0.14)
+16:04:55 SB-N3 I2 c03: rejected ['text', 'placement'] main_area=0.0044 cx=0.4632 desc=yes det=None
+16:05:13 SB-N3_I2_c04: made (17.3 s, $0.14)
+16:05:26 SB-P5 I2 c20: rejected ['text'] main_area=0.1431 cx=0.2542 desc=yes det=None
+16:05:26 SB-P5 I2: 20 failures; prompt revision (placement): The photograph clearly shows the man and the bus shelter on the left side of the frame, small, seen from farther away.
+16:05:40 SB-N3 I2 c04: rejected ['text', 'placement'] main_area=0.0031 cx=0.4689 desc=yes det=None
+16:05:44 SB-P5_I2_c21: made (18.7 s, $0.14)
+16:05:57 SB-N3_I2_c05: made (16.6 s, $0.14)
+16:06:00 SB-P5 I2 c21: rejected ['text', 'placement'] main_area=0.339 cx=0.2648 desc=yes det=None
+16:06:15 SB-N3 I2 c05: rejected ['text', 'placement'] main_area=0.002 cx=0.354 desc=yes det=None
+16:06:16 SB-P5_I2_c22: made (15.7 s, $0.14)
+16:06:32 SB-N3_I2_c06: made (17.4 s, $0.14)
+16:06:36 SB-P5 I2 c22: ACCEPTED  main_area=0.1251 cx=0.174 desc=yes det=None
+16:06:48 SB-N3 I2 c06: rejected ['text', 'placement'] main_area=0.0075 cx=0.4106 desc=yes det=None
+16:07:04 SB-N3_I2_c07: made (15.4 s, $0.14)
+16:07:25 SB-N3 I2 c07: rejected ['text', 'placement'] main_area=0.0043 cx=0.463 desc=yes det=None
+16:07:40 SB-N3_I2_c08: made (14.8 s, $0.14)
+16:08:06 SB-N3 I2 c08: rejected ['text'] main_area=0.1815 cx=0.2645 desc=yes det=None
+16:08:21 SB-N3_I2_c09: made (15.0 s, $0.14)
+16:08:53 SB-N3 I2 c09: rejected ['text', 'placement'] main_area=0.0045 cx=0.7441 desc=yes det=None
+16:09:08 SB-N3_I2_c10: made (15.2 s, $0.14)
+16:09:24 SB-N3 I2 c10: rejected ['text', 'placement'] main_area=0.004 cx=0.4444 desc=yes det=None
+16:09:40 SB-N3_I2_c11: made (16.4 s, $0.14)
+16:09:53 SB-N3 I2 c11: rejected ['text'] main_area=0.2312 cx=0.2271 desc=yes det=None
+16:10:08 SB-N3_I2_c12: made (14.5 s, $0.14)
+16:10:31 SB-N3 I2 c12: rejected ['text', 'placement'] main_area=0.0019 cx=0.2837 desc=yes det=None
+16:10:45 SB-N3_I2_c13: made (14.4 s, $0.14)
+16:11:15 SB-N3 I2 c13: rejected ['text', 'placement'] main_area=0.0109 cx=0.9553 desc=yes det=None
+16:11:30 SB-N3_I2_c14: made (14.8 s, $0.14)
+16:11:44 SB-N3 I2 c14: rejected ['text', 'placement'] main_area=0.0026 cx=0.5315 desc=yes det=None
+16:12:01 SB-N3_I2_c15: made (16.9 s, $0.14)
+16:12:14 SB-N3 I2 c15: rejected ['placement'] main_area=0.001 cx=0.3757 desc=yes det=None
+16:12:30 SB-N3_I2_c16: made (16.5 s, $0.14)
+16:12:44 SB-N3 I2 c16: rejected ['text'] main_area=0.1721 cx=0.1975 desc=yes det=None
+16:12:59 SB-N3_I2_c17: made (15.5 s, $0.14)
+16:13:11 SB-N3 I2 c17: rejected ['text', 'placement'] main_area=0.0018 cx=0.4299 desc=yes det=None
+16:13:25 SB-N3_I2_c18: made (14.4 s, $0.14)
+16:13:41 SB-N3 I2 c18: rejected ['text', 'placement'] main_area=0.0019 cx=0.047 desc=yes det=None
+16:13:56 SB-N3_I2_c19: made (14.7 s, $0.14)
+16:14:05 SB-N3 I2 c19: rejected ['text', 'placement'] main_area=0.001 cx=0.3521 desc=yes det=None
+16:14:21 SB-N3_I2_c20: made (15.3 s, $0.14)
+16:14:33 SB-N3 I2 c20: rejected ['text', 'placement'] main_area=0.0018 cx=0.4699 desc=yes det=None
+16:14:33 SB-N3 I2: 20 failures; prompt revision (text): The photograph shows no visible text, letters, numbers, signatures or watermarks.
+16:14:48 SB-N3_I2_c21: made (15.3 s, $0.14)
+16:14:59 SB-N3 I2 c21: rejected ['placement'] main_area=0.0024 cx=0.4743 desc=yes det=None
+16:15:19 SB-N3_I2_c22: made (19.7 s, $0.14)
+16:15:31 SB-N3 I2 c22: ACCEPTED  main_area=0.2383 cx=0.211 desc=yes det=None
+16:15:50 outputs: 24 accepted files, 143 candidates
+16:15:50 summary:
+16:15:50   SB-P5: accepted; V1 c8; I2 c22
+16:15:50   SB-N3: accepted; V1 c16; I2 c22
+16:15:50 ledgers: Set B $47.40 + Set A $24.59; this run $20.14; accepted files 24
+--- scale-cut correction 0.15 -> 0.16: re-judging; new searches for SB-P6 I2 and SB-N4 I2 (cap: candidate 20, $4) Tue Oct 27 16:25:18 PDT 2026
+16:25:19 ledgers: Set B $47.53 + Set A $28.02 (cap $100); this run so far $20.14; soft cap $24.10
+16:25:26 SB-P6 V1 c01: ACCEPTED  main_area=0.155 cx=0.6667 desc=yes det=True
+16:25:26 SB-P6: V1 accepted (c01); placement sentence: The girl is on the left side of the frame, large, seen from close by.
+16:25:26 SB-P6 I2 c01: superseded (made under the old placement sentence)
+16:25:26 SB-N4 V1 c01: ACCEPTED  main_area=0.0652 cx=0.2844 desc=yes det=True
+16:25:26 SB-N4: V1 accepted (c01); placement sentence: The bowl of lemons is on the right side of the frame, large, seen from close by.
+16:25:26 SB-N4 I2 c01: rejected ['placement'] main_area=0.1091 cx=0.7675 desc=yes det=True
+16:25:26 SB-N4 I2 c02: rejected ['placement'] main_area=0.0806 cx=0.6865 desc=yes det=True
+16:25:27 SB-N4 I2 c03: rejected ['placement'] main_area=0.1249 cx=0.7508 desc=yes det=True
+16:25:27 SB-N4 I2 c04: rejected ['placement'] main_area=0.1013 cx=0.7177 desc=yes det=True
+16:25:27 SB-N4 I2 c05: rejected ['placement'] main_area=0.1393 cx=0.7376 desc=yes det=True
+16:25:27 SB-N4 I2 c06: rejected ['placement'] main_area=0.1344 cx=0.8217 desc=yes det=True
+16:25:27 SB-N4 I2 c07: rejected ['text', 'placement'] main_area=0.1095 cx=0.7473 desc=yes det=True
+16:25:27 SB-N4 I2 c08: rejected ['placement'] main_area=0.1229 cx=0.7289 desc=yes det=True
+16:25:27 SB-N4 I2 c09: rejected ['placement'] main_area=0.1144 cx=0.7672 desc=yes det=True
+16:25:27 SB-N4 I2 c10: rejected ['text', 'placement'] main_area=0.1211 cx=0.742 desc=yes det=True
+16:25:27 SB-N4 I2 c11: rejected ['placement'] main_area=0.0576 cx=0.7266 desc=yes det=True
+16:25:27 SB-N4 I2 c12: rejected ['placement'] main_area=0.0506 cx=0.4142 desc=yes det=True
+16:25:27 SB-N4 I2 c13: rejected ['placement'] main_area=0.1563 cx=0.763 desc=yes det=True
+16:25:41 SB-P6_I2_c02: made (14.8 s, $0.14)
+16:25:42 SB-N4_I2_c14: made (14.9 s, $0.14)
+16:25:54 SB-P6 I2 c02: ACCEPTED  main_area=0.1887 cx=0.2968 desc=yes det=True
+16:26:04 SB-N4 I2 c14: rejected ['placement'] main_area=0.1307 cx=0.3679 desc=yes det=True
+16:26:21 SB-N4_I2_c15: made (17.1 s, $0.14)
+16:26:37 SB-N4 I2 c15: rejected ['placement'] main_area=0.1031 cx=0.6123 desc=yes det=True
+16:26:52 SB-N4_I2_c16: made (14.9 s, $0.14)
+16:27:03 SB-N4 I2 c16: rejected ['placement'] main_area=0.0738 cx=0.3778 desc=yes det=True
+16:27:18 SB-N4_I2_c17: made (14.9 s, $0.14)
+16:27:28 SB-N4 I2 c17: rejected ['placement'] main_area=0.0933 cx=0.6954 desc=yes det=True
+16:27:42 SB-N4_I2_c18: made (14.2 s, $0.14)
+16:27:50 SB-N4 I2 c18: rejected ['placement'] main_area=0.0643 cx=0.6491 desc=yes det=True
+16:28:04 SB-N4_I2_c19: made (13.9 s, $0.14)
+16:28:14 SB-N4 I2 c19: rejected ['text', 'placement'] main_area=0.0658 cx=0.653 desc=yes det=True
+16:28:28 SB-N4_I2_c20: made (13.7 s, $0.14)
+16:28:36 SB-N4 I2 c20: rejected ['placement'] main_area=0.1028 cx=0.4939 desc=yes det=True
+16:28:36 SB-N4 I2: 20 failures; prompt revision (placement): The photograph clearly shows the bowl of lemons on the right side of the frame, large, seen from close by.
+16:28:36 SB-N4 I2: reached the candidate cap (20); stopping this file
+16:28:54 outputs: 23 accepted files, 151 candidates
+16:28:54 summary:
+16:28:54   SB-P6: accepted; V1 c1; I2 c2
+16:28:54   SB-N4: capped; V1 c1; I2 c-
+16:28:54 ledgers: Set B $48.66 + Set A $29.10; this run $21.27; accepted files 23
+--- SB-N4 I2: bank rescue rule, recorded revision, c21 onward (up to 20 tries, $3) Tue Oct 27 16:32:04 PDT 2026
+16:32:06 ledgers: Set B $48.67 + Set A $30.54 (cap $100); this run so far $21.27; soft cap $24.27
+16:32:14 SB-N4 V1 c01: ACCEPTED  main_area=0.0652 cx=0.2844 desc=yes det=True
+16:32:14 SB-N4: V1 accepted (c01); placement sentence: The bowl of lemons is on the right side of the frame, large, seen from close by.
+16:32:14 SB-N4 I2 c01: rejected ['placement'] main_area=0.1091 cx=0.7675 desc=yes det=True
+16:32:14 SB-N4 I2 c02: rejected ['placement'] main_area=0.0806 cx=0.6865 desc=yes det=True
+16:32:14 SB-N4 I2 c03: rejected ['placement'] main_area=0.1249 cx=0.7508 desc=yes det=True
+16:32:14 SB-N4 I2 c04: rejected ['placement'] main_area=0.1013 cx=0.7177 desc=yes det=True
+16:32:15 SB-N4 I2 c05: rejected ['placement'] main_area=0.1393 cx=0.7376 desc=yes det=True
+16:32:15 SB-N4 I2 c06: rejected ['placement'] main_area=0.1344 cx=0.8217 desc=yes det=True
+16:32:15 SB-N4 I2 c07: rejected ['text', 'placement'] main_area=0.1095 cx=0.7473 desc=yes det=True
+16:32:15 SB-N4 I2 c08: rejected ['placement'] main_area=0.1229 cx=0.7289 desc=yes det=True
+16:32:15 SB-N4 I2 c09: rejected ['placement'] main_area=0.1144 cx=0.7672 desc=yes det=True
+16:32:15 SB-N4 I2 c10: rejected ['text', 'placement'] main_area=0.1211 cx=0.742 desc=yes det=True
+16:32:15 SB-N4 I2 c11: rejected ['placement'] main_area=0.0576 cx=0.7266 desc=yes det=True
+16:32:15 SB-N4 I2 c12: rejected ['placement'] main_area=0.0506 cx=0.4142 desc=yes det=True
+16:32:15 SB-N4 I2 c13: rejected ['placement'] main_area=0.1563 cx=0.763 desc=yes det=True
+16:32:15 SB-N4 I2 c14: rejected ['placement'] main_area=0.1307 cx=0.3679 desc=yes det=True
+16:32:15 SB-N4 I2 c15: rejected ['placement'] main_area=0.1031 cx=0.6123 desc=yes det=True
+16:32:15 SB-N4 I2 c16: rejected ['placement'] main_area=0.0738 cx=0.3778 desc=yes det=True
+16:32:15 SB-N4 I2 c17: rejected ['placement'] main_area=0.0933 cx=0.6954 desc=yes det=True
+16:32:15 SB-N4 I2 c18: rejected ['placement'] main_area=0.0643 cx=0.6491 desc=yes det=True
+16:32:16 SB-N4 I2 c19: rejected ['text', 'placement'] main_area=0.0658 cx=0.653 desc=yes det=True
+16:32:16 SB-N4 I2 c20: rejected ['placement'] main_area=0.1028 cx=0.4939 desc=yes det=True
+16:32:16 SB-N4 I2: 20 failures; prompt revision (placement): The photograph clearly shows the bowl of lemons on the right side of the frame, large, seen from close by.
+16:32:30 SB-N4_I2_c21: made (14.5 s, $0.14)
+16:32:38 SB-N4 I2 c21: ACCEPTED  main_area=0.1699 cx=0.7169 desc=yes det=True
+16:32:52 outputs: 24 accepted files, 152 candidates
+16:32:52 summary:
+16:32:52   SB-N4: accepted; V1 c1; I2 c21
+16:32:52 ledgers: Set B $48.81 + Set A $30.72; this run $21.41; accepted files 24
+--- plan-faithfulness amendment (27 Oct 2026): re-judging all files in order; re-search of failing files; no reserves; soft cap $29.26 Tue Oct 27 16:37:19 PDT 2026
+16:37:24 ledgers: Set B $48.81 + Set A $32.35 (cap $100); this run so far $21.41; soft cap $29.26
+16:37:29 SB-P2 V1 c01: rejected ['plan fit'] main_area=0.115 cx=0.6027 desc=yes det=True
+16:37:29 SB-P3 V1 c01: rejected ['text'] main_area=0.0817 cx=0.4713 desc=yes det=None
+16:37:29 SB-P1 V1 c01: ACCEPTED  main_area=0.2577 cx=0.7149 desc=yes det=None
+16:37:29 SB-P1: V1 accepted (c01); placement sentence: The woman and her armchair are on the left side of the frame, small, seen from farther away.
+16:37:30 SB-P3 V1 c02: rejected ['text'] main_area=0.047 cx=0.3845 desc=yes det=None
+16:37:30 SB-P1 I2 c01: rejected ['placement'] main_area=0.2706 cx=0.2822 desc=yes det=None
+16:37:30 SB-P3 V1 c03: ACCEPTED  main_area=0.0416 cx=0.4983 desc=yes det=None
+16:37:30 SB-P3: V1 accepted (c03); placement sentence: The young woman is on the right side of the frame, large, seen from close by.
+16:37:30 SB-P1 I2 c02: rejected ['placement'] main_area=0.1858 cx=0.2056 desc=yes det=None
+16:37:30 SB-P1 I2 c03: rejected ['text', 'placement'] main_area=0.2343 cx=0.2387 desc=yes det=None
+16:37:30 SB-P1 I2 c04: rejected ['placement'] main_area=0.2417 cx=0.3971 desc=yes det=None
+16:37:30 SB-P1 I2 c05: rejected ['placement'] main_area=0.2503 cx=0.318 desc=yes det=None
+16:37:30 SB-P1 I2 c06: rejected ['text', 'placement'] main_area=0.2382 cx=0.24 desc=yes det=None
+16:37:30 SB-P1 I2 c07: rejected ['text', 'placement'] main_area=0.2898 cx=0.6975 desc=yes det=None
+16:37:30 SB-P1 I2 c08: rejected ['text', 'placement'] main_area=0.289 cx=0.2824 desc=yes det=None
+16:37:30 SB-P1 I2 c09: rejected ['placement'] main_area=0.3103 cx=0.2422 desc=yes det=None
+16:37:30 SB-P3 I2 c01: rejected ['text'] main_area=0.2228 cx=0.7103 desc=yes det=None
+16:37:30 SB-P1 I2 c10: rejected ['text', 'placement'] main_area=0.2887 cx=0.3387 desc=yes det=None
+16:37:31 SB-P1 I2 c11: rejected ['placement'] main_area=0.2066 cx=0.2723 desc=yes det=None
+16:37:31 SB-P3 I2 c02: rejected ['text'] main_area=0.4286 cx=0.7746 desc=yes det=None
+16:37:31 SB-P3 I2 c03: rejected ['placement'] main_area=0.1336 cx=0.7355 desc=yes det=None
+16:37:31 SB-P1 I2 c12: rejected ['text', 'placement'] main_area=0.412 cx=0.2771 desc=yes det=None
+16:37:31 SB-P1 I2 c13: rejected ['placement'] main_area=0.3023 cx=0.7298 desc=yes det=None
+16:37:31 SB-P3 I2 c04: rejected ['main elements', 'text', 'placement'] main_area=None cx=None desc=yes det=None
+16:37:31 SB-P3 I2 c05: rejected ['plan fit'] main_area=0.1927 cx=0.7024 desc=yes det=None
+16:37:31 SB-P1 I2 c14: rejected ['placement'] main_area=0.3233 cx=0.2604 desc=yes det=None
+16:37:31 SB-P1 I2 c15: rejected ['placement'] main_area=0.2985 cx=0.3161 desc=yes det=None
+16:37:31 SB-P1 I2 c16: rejected ['placement'] main_area=0.2012 cx=0.2571 desc=yes det=None
+16:37:31 SB-P1 I2 c17: rejected ['text', 'placement'] main_area=0.1923 cx=0.3024 desc=yes det=None
+16:37:31 SB-P1 I2 c18: rejected ['placement'] main_area=0.2611 cx=0.337 desc=yes det=None
+16:37:31 SB-P1 I2 c19: rejected ['text', 'placement'] main_area=0.1871 cx=0.3103 desc=yes det=None
+16:37:31 SB-P1 I2 c20: rejected ['placement'] main_area=0.3171 cx=0.2895 desc=yes det=None
+16:37:31 SB-P1 I2: 20 failures; prompt revision (placement): The photograph clearly shows the woman and her armchair on the left side of the frame, small, seen from farther away.
+16:37:31 SB-P1 I2 c21: rejected ['text', 'placement'] main_area=0.2691 cx=0.2795 desc=yes det=None
+16:37:32 SB-P1 I2 c22: rejected ['text', 'placement'] main_area=0.2311 cx=0.3488 desc=yes det=None
+16:37:32 SB-P1 I2 c23: rejected ['placement'] main_area=0.1852 cx=0.2938 desc=yes det=None
+16:37:32 SB-P1 I2 c24: rejected ['text', 'placement'] main_area=0.2573 cx=0.3078 desc=yes det=None
+16:37:32 SB-P1 I2 c25: rejected ['text', 'placement'] main_area=0.2381 cx=0.2422 desc=yes det=None
+16:37:32 SB-P1 I2 c26: ACCEPTED  main_area=0.1465 cx=0.3739 desc=yes det=None
+16:37:32 SB-P4 V1 c01: rejected ['main elements'] main_area=None cx=None desc=yes det=True
+16:37:32 SB-P4 V1 c02: rejected ['text'] main_area=0.1909 cx=0.3916 desc=yes det=True
+16:37:32 SB-P4 V1 c03: rejected ['text'] main_area=0.1318 cx=0.5927 desc=yes det=True
+16:37:32 SB-P4 V1 c04: rejected ['main elements'] main_area=None cx=None desc=yes det=True
+16:37:32 SB-P4 V1 c05: rejected ['main elements'] main_area=None cx=None desc=yes det=True
+16:37:32 SB-P4 V1 c06: rejected ['main elements'] main_area=None cx=None desc=yes det=True
+16:37:32 SB-P4 V1 c07: ACCEPTED  main_area=0.1302 cx=0.3954 desc=yes det=True
+16:37:32 SB-P4: V1 accepted (c07); placement sentence: The chef is on the right side of the frame, large, seen from close by.
+16:37:32 SB-P4 I2 c01: ACCEPTED  main_area=0.465 cx=0.7505 desc=yes det=True
+16:37:32 SB-P5 V1 c01: rejected ['text'] main_area=0.415 cx=0.3788 desc=yes det=None
+16:37:32 SB-P5 V1 c02: rejected ['text'] main_area=0.5085 cx=0.4036 desc=yes det=None
+16:37:32 SB-P5 V1 c03: rejected ['main elements'] main_area=None cx=None desc=yes det=None
+16:37:32 SB-P5 V1 c04: rejected ['main elements', 'text'] main_area=None cx=None desc=yes det=None
+16:37:33 SB-P5 V1 c05: rejected ['text'] main_area=0.5835 cx=0.5212 desc=yes det=None
+16:37:33 SB-P5 V1 c06: rejected ['text'] main_area=0.3115 cx=0.6948 desc=yes det=None
+16:37:33 SB-P5 V1 c07: rejected ['text'] main_area=0.5259 cx=0.5934 desc=yes det=None
+16:37:33 SB-P5 V1 c08: ACCEPTED  main_area=0.6694 cx=0.5425 desc=yes det=None
+16:37:33 SB-P5: V1 accepted (c08); placement sentence: The man and the bus shelter are on the left side of the frame, small, seen from farther away.
+16:37:33 SB-P5 I2 c01: rejected ['text', 'placement'] main_area=0.3527 cx=0.2266 desc=yes det=None
+16:37:33 SB-P5 I2 c02: rejected ['text'] main_area=0.1456 cx=0.2868 desc=yes det=None
+16:37:33 SB-P5 I2 c03: rejected ['text', 'placement'] main_area=0.3776 cx=0.2511 desc=yes det=None
+16:37:33 SB-P5 I2 c04: rejected ['text', 'placement'] main_area=0.2703 cx=0.278 desc=yes det=None
+16:37:33 SB-P5 I2 c05: rejected ['text', 'placement'] main_area=0.3537 cx=0.2192 desc=yes det=None
+16:37:33 SB-P5 I2 c06: rejected ['text', 'placement'] main_area=0.3106 cx=0.1852 desc=yes det=None
+16:37:33 SB-P5 I2 c07: rejected ['text', 'placement'] main_area=0.2804 cx=0.2412 desc=yes det=None
+16:37:33 SB-P5 I2 c08: rejected ['text', 'placement'] main_area=0.4496 cx=0.2349 desc=yes det=None
+16:37:33 SB-P5 I2 c09: rejected ['text', 'placement'] main_area=0.4002 cx=0.2697 desc=yes det=None
+16:37:33 SB-P5 I2 c10: rejected ['text', 'placement'] main_area=0.1877 cx=0.3314 desc=yes det=None
+16:37:33 SB-P5 I2 c11: rejected ['text', 'placement'] main_area=0.2253 cx=0.2319 desc=yes det=None
+16:37:33 SB-P5 I2 c12: rejected ['text', 'placement'] main_area=0.1988 cx=0.2349 desc=yes det=None
+16:37:33 SB-P5 I2 c13: rejected ['text', 'placement'] main_area=0.3315 cx=0.2346 desc=yes det=None
+16:37:33 SB-P5 I2 c14: rejected ['text', 'placement'] main_area=0.3791 cx=0.214 desc=yes det=None
+16:37:33 SB-P5 I2 c15: rejected ['placement'] main_area=0.2972 cx=0.2944 desc=yes det=None
+16:37:33 SB-P5 I2 c16: rejected ['placement'] main_area=0.4584 cx=0.2696 desc=yes det=None
+16:37:34 SB-P5 I2 c17: rejected ['placement'] main_area=0.2259 cx=0.2516 desc=yes det=None
+16:37:34 SB-P5 I2 c18: rejected ['text', 'placement'] main_area=0.313 cx=0.275 desc=yes det=None
+16:37:34 SB-P5 I2 c19: rejected ['text', 'placement'] main_area=0.3509 cx=0.2641 desc=yes det=None
+16:37:34 SB-P5 I2 c20: rejected ['text'] main_area=0.1431 cx=0.2542 desc=yes det=None
+16:37:34 SB-P5 I2: 20 failures; prompt revision (placement): The photograph clearly shows the man and the bus shelter on the left side of the frame, small, seen from farther away.
+16:37:34 SB-P5 I2 c21: rejected ['text', 'placement'] main_area=0.339 cx=0.2648 desc=yes det=None
+16:37:34 SB-P5 I2 c22: ACCEPTED  main_area=0.1251 cx=0.174 desc=yes det=None
+16:37:34 SB-P6 V1 c01: ACCEPTED  main_area=0.155 cx=0.6667 desc=yes det=True
+16:37:34 SB-P6: V1 accepted (c01); placement sentence: The girl is on the left side of the frame, large, seen from close by.
+16:37:34 SB-P6 I2 c02: ACCEPTED  main_area=0.1887 cx=0.2968 desc=yes det=True
+16:37:34 SB-N1 V1 c01: rejected ['feature'] main_area=0.1682 cx=0.648 desc=no det=None
+16:37:34 SB-N1 V1 c02: rejected ['feature'] main_area=0.1611 cx=0.3534 desc=no det=None
+16:37:34 SB-N1 V1 c03: ACCEPTED  main_area=0.2707 cx=0.4049 desc=yes det=None
+16:37:34 SB-N1: V1 accepted (c03); placement sentence: The canoe is on the right side of the frame, small, seen from farther away.
+16:37:34 SB-N1 I2 c01: ACCEPTED  main_area=0.0944 cx=0.6979 desc=yes det=None
+16:37:34 SB-N2 V1 c01: rejected ['text'] main_area=0.0993 cx=0.3795 desc=yes det=True
+16:37:34 SB-N2 V1 c02: ACCEPTED  main_area=0.1276 cx=0.4562 desc=yes det=True
+16:37:34 SB-N2: V1 accepted (c02); placement sentence: The chair is on the right side of the frame, large, seen from close by.
+16:37:34 SB-N2 I2 c01: ACCEPTED  main_area=0.2337 cx=0.6865 desc=yes det=True
+16:37:34 SB-N3 V1 c01: rejected ['text'] main_area=0.0008 cx=0.261 desc=yes det=None
+16:37:34 SB-N3 V1 c02: rejected ['text'] main_area=0.0051 cx=0.2719 desc=yes det=None
+16:37:34 SB-N3 V1 c03: rejected ['text'] main_area=0.0027 cx=0.985 desc=yes det=None
+16:37:34 SB-N3 V1 c04: rejected ['text'] main_area=0.0006 cx=0.6872 desc=yes det=None
+16:37:34 SB-N3 V1 c05: rejected ['text'] main_area=0.0319 cx=0.7308 desc=yes det=None
+16:37:35 SB-N3 V1 c06: rejected ['text'] main_area=0.0049 cx=0.8947 desc=yes det=None
+16:37:35 SB-N3 V1 c07: rejected ['text'] main_area=0.0037 cx=0.2142 desc=yes det=None
+16:37:35 SB-N3 V1 c08: rejected ['text'] main_area=0.0046 cx=0.5181 desc=yes det=None
+16:37:35 SB-N3 V1 c09: rejected ['text'] main_area=0.0017 cx=0.2972 desc=yes det=None
+16:37:35 SB-N3 V1 c10: rejected ['text'] main_area=0.0013 cx=0.4151 desc=yes det=None
+16:37:35 SB-N3 V1 c11: rejected ['text'] main_area=0.0082 cx=0.06 desc=yes det=None
+16:37:35 SB-N3 V1 c12: rejected ['text'] main_area=0.0017 cx=0.9271 desc=yes det=None
+16:37:35 SB-N3 V1 c13: rejected ['text'] main_area=0.0284 cx=0.3383 desc=yes det=None
+16:37:35 SB-N3 V1 c14: rejected ['text'] main_area=0.002 cx=0.3048 desc=yes det=None
+16:37:35 SB-N3 V1 c15: rejected ['text'] main_area=0.054 cx=0.3551 desc=yes det=None
+16:37:35 SB-N3 V1 c16: rejected ['plan fit'] main_area=0.0057 cx=0.6356 desc=yes det=None
+16:37:46 SB-P2_V1_c02: made (16.2 s, $0.14)
+16:37:48 SB-P3_I2_c06: made (16.5 s, $0.14)
+16:37:55 SB-N3_V1_c17: made (20.0 s, $0.14)
+16:38:06 SB-P2 V1 c02: rejected ['feature', 'text', 'plan fit'] main_area=0.1298 cx=0.6395 desc=no det=True
+16:38:19 SB-P3 I2 c06: rejected ['plan fit', 'placement'] main_area=0.1208 cx=0.7629 desc=yes det=None
+16:38:20 SB-N3 V1 c17: rejected ['text'] main_area=0.0529 cx=0.5469 desc=yes det=None
+16:38:22 SB-P2_V1_c03: made (16.0 s, $0.14)
+16:38:33 SB-P3_I2_c07: made (14.1 s, $0.14)
+16:38:35 SB-N3_V1_c18: made (14.8 s, $0.14)
+16:38:39 SB-P2 V1 c03: rejected ['text'] main_area=0.157 cx=0.5067 desc=yes det=True
+16:38:48 SB-P3 I2 c07: rejected ['plan fit', 'placement'] main_area=0.0645 cx=0.7145 desc=yes det=None
+16:38:53 SB-N3 V1 c18: rejected ['text', 'plan fit'] main_area=0.0035 cx=0.3604 desc=yes det=None
+16:38:56 SB-P2_V1_c04: made (16.3 s, $0.14)
+16:39:03 SB-P3_I2_c08: made (14.7 s, $0.14)
+16:39:09 SB-N3_V1_c19: made (15.8 s, $0.14)
+16:39:09 SB-P2 V1 c04: ACCEPTED  main_area=0.107 cx=0.6191 desc=yes det=True
+16:39:09 SB-P2: V1 accepted (c04); placement sentence: The man and the bicycle are on the left side of the frame, large, seen from close by.
+16:39:10 SB-P2 I2 c01: rejected ['placement'] main_area=0.1373 cx=0.3691 desc=yes det=True
+16:39:10 SB-P2 I2 c02: ACCEPTED  main_area=0.4456 cx=0.3288 desc=yes det=True
+16:39:10 SB-N4 V1 c01: ACCEPTED  main_area=0.0652 cx=0.2844 desc=yes det=True
+16:39:10 SB-N4: V1 accepted (c01); placement sentence: The bowl of lemons is on the right side of the frame, large, seen from close by.
+16:39:10 SB-N4 I2 c01: rejected ['placement'] main_area=0.1091 cx=0.7675 desc=yes det=True
+16:39:10 SB-N4 I2 c02: rejected ['placement'] main_area=0.0806 cx=0.6865 desc=yes det=True
+16:39:10 SB-N4 I2 c03: rejected ['placement'] main_area=0.1249 cx=0.7508 desc=yes det=True
+16:39:10 SB-N4 I2 c04: rejected ['placement'] main_area=0.1013 cx=0.7177 desc=yes det=True
+16:39:11 SB-N4 I2 c05: rejected ['placement'] main_area=0.1393 cx=0.7376 desc=yes det=True
+16:39:11 SB-N4 I2 c06: rejected ['placement'] main_area=0.1344 cx=0.8217 desc=yes det=True
+16:39:11 SB-N4 I2 c07: rejected ['text', 'placement'] main_area=0.1095 cx=0.7473 desc=yes det=True
+16:39:11 SB-N4 I2 c08: rejected ['placement'] main_area=0.1229 cx=0.7289 desc=yes det=True
+16:39:11 SB-N4 I2 c09: rejected ['placement'] main_area=0.1144 cx=0.7672 desc=yes det=True
+16:39:11 SB-N4 I2 c10: rejected ['text', 'placement'] main_area=0.1211 cx=0.742 desc=yes det=True
+16:39:11 SB-N4 I2 c11: rejected ['placement'] main_area=0.0576 cx=0.7266 desc=yes det=True
+16:39:11 SB-N4 I2 c12: rejected ['placement'] main_area=0.0506 cx=0.4142 desc=yes det=True
+16:39:11 SB-N4 I2 c13: rejected ['placement'] main_area=0.1563 cx=0.763 desc=yes det=True
+16:39:11 SB-N4 I2 c14: rejected ['placement'] main_area=0.1307 cx=0.3679 desc=yes det=True
+16:39:11 SB-N4 I2 c15: rejected ['placement'] main_area=0.1031 cx=0.6123 desc=yes det=True
+16:39:11 SB-N4 I2 c16: rejected ['placement'] main_area=0.0738 cx=0.3778 desc=yes det=True
+16:39:11 SB-N4 I2 c17: rejected ['placement'] main_area=0.0933 cx=0.6954 desc=yes det=True
+16:39:11 SB-N4 I2 c18: rejected ['placement'] main_area=0.0643 cx=0.6491 desc=yes det=True
+16:39:11 SB-N4 I2 c19: rejected ['text', 'placement'] main_area=0.0658 cx=0.653 desc=yes det=True
+16:39:11 SB-N4 I2 c20: rejected ['placement'] main_area=0.1028 cx=0.4939 desc=yes det=True
+16:39:11 SB-N4 I2: 20 failures; prompt revision (placement): The photograph clearly shows the bowl of lemons on the right side of the frame, large, seen from close by.
+16:39:11 SB-N4 I2 c21: rejected ['plan fit'] main_area=0.1699 cx=0.7169 desc=yes det=True
+16:39:19 SB-P3 I2 c08: ACCEPTED  main_area=0.3503 cx=0.7969 desc=yes det=None
+16:39:19 SB-N5 V1 c01: ACCEPTED  main_area=0.1703 cx=0.7333 desc=yes det=None
+16:39:19 SB-N5: V1 accepted (c01); placement sentence: The farmhouse is on the left side of the frame, small, seen from farther away.
+16:39:19 SB-N5 I2 c01: ACCEPTED  main_area=0.0622 cx=0.1417 desc=yes det=None
+16:39:19 SB-N6 V1 c01: rejected ['text'] main_area=0.2517 cx=0.5049 desc=yes det=None
+16:39:19 SB-N6 V1 c02: ACCEPTED  main_area=0.2596 cx=0.4904 desc=yes det=None
+16:39:19 SB-N6: V1 accepted (c02); placement sentence: The two tables are on the right side of the frame, small, seen from farther away.
+16:39:19 SB-N6 I2 c01: rejected ['main elements', 'placement'] main_area=None cx=None desc=yes det=None
+16:39:19 SB-N6 I2 c02: rejected ['plan fit'] main_area=0.1071 cx=0.8438 desc=yes det=None
+16:39:22 SB-N3 V1 c19: rejected ['text', 'plan fit'] main_area=0.0069 cx=0.4687 desc=yes det=None
+16:39:27 SB-N4_I2_c22: made (15.7 s, $0.14)
+16:39:35 SB-N6_I2_c03: made (16.0 s, $0.14)
+16:39:36 SB-N3_V1_c20: made (14.6 s, $0.14)
+16:39:46 SB-N4 I2 c22: rejected ['placement'] main_area=0.0663 cx=0.6806 desc=yes det=True
+16:39:53 SB-N6 I2 c03: rejected ['plan fit'] main_area=0.1119 cx=0.6502 desc=yes det=None
+16:39:58 SB-N3 V1 c20: rejected ['text', 'plan fit'] main_area=0.0144 cx=0.5447 desc=yes det=None
+16:39:58 SB-N3 V1: 20 failures; prompt revision (text): The photograph shows no visible text, letters, numbers, signatures or watermarks.
+16:40:04 SB-N4_I2_c23: made (17.5 s, $0.14)
+16:40:08 SB-N6_I2_c04: made (14.6 s, $0.14)
+16:40:14 SB-N3_V1_c21: made (16.0 s, $0.14)
+16:40:20 SB-N4 I2 c23: rejected ['plan fit', 'placement'] main_area=0.1023 cx=0.7472 desc=yes det=True
+16:40:21 SB-N6 I2 c04: rejected ['plan fit'] main_area=0.1303 cx=0.6905 desc=yes det=None
+16:40:27 SB-N3 V1 c21: rejected ['text', 'plan fit'] main_area=0.0043 cx=0.0867 desc=yes det=None
+16:40:35 SB-N6_I2_c05: made (14.1 s, $0.14)
+16:40:36 SB-N4_I2_c24: made (15.5 s, $0.14)
+16:40:43 SB-N3_V1_c22: made (15.8 s, $0.14)
+16:40:48 SB-N6 I2 c05: rejected ['main elements', 'plan fit', 'placement'] main_area=None cx=None desc=yes det=None
+16:40:54 SB-N4 I2 c24: rejected ['text', 'plan fit', 'placement'] main_area=0.1024 cx=0.6841 desc=yes det=True
+16:40:57 SB-N3 V1 c22: rejected ['plan fit'] main_area=0.0008 cx=0.751 desc=yes det=None
+16:41:05 SB-N6_I2_c06: made (16.4 s, $0.14)
+16:41:09 SB-N4_I2_c25: made (14.6 s, $0.14)
+16:41:13 SB-N3_V1_c23: made (16.5 s, $0.14)
+16:41:20 SB-N6 I2 c06: rejected ['main elements', 'plan fit', 'placement'] main_area=None cx=None desc=yes det=None
+16:41:23 SB-N4 I2 c25: rejected ['text', 'placement'] main_area=0.1157 cx=0.7508 desc=yes det=True
+16:41:28 SB-N3 V1 c23: ACCEPTED  main_area=0.0616 cx=0.382 desc=yes det=None
+16:41:28 SB-N3: V1 accepted (c23); placement sentence: The parked car is on the right side of the frame, large, seen from close by.
+16:41:29 SB-N3 I2 c01: superseded (made under the old placement sentence)
+16:41:29 SB-N3 I2 c02: superseded (made under the old placement sentence)
+16:41:29 SB-N3 I2 c03: superseded (made under the old placement sentence)
+16:41:29 SB-N3 I2 c04: superseded (made under the old placement sentence)
+16:41:29 SB-N3 I2 c05: superseded (made under the old placement sentence)
+16:41:29 SB-N3 I2 c06: superseded (made under the old placement sentence)
+16:41:29 SB-N3 I2 c07: superseded (made under the old placement sentence)
+16:41:29 SB-N3 I2 c08: superseded (made under the old placement sentence)
+16:41:29 SB-N3 I2 c09: superseded (made under the old placement sentence)
+16:41:30 SB-N3 I2 c10: superseded (made under the old placement sentence)
+16:41:30 SB-N3 I2 c11: superseded (made under the old placement sentence)
+16:41:30 SB-N3 I2 c12: superseded (made under the old placement sentence)
+16:41:30 SB-N3 I2 c13: superseded (made under the old placement sentence)
+16:41:30 SB-N3 I2 c14: superseded (made under the old placement sentence)
+16:41:30 SB-N3 I2 c15: superseded (made under the old placement sentence)
+16:41:30 SB-N3 I2 c16: superseded (made under the old placement sentence)
+16:41:30 SB-N3 I2 c17: superseded (made under the old placement sentence)
+16:41:30 SB-N3 I2 c18: superseded (made under the old placement sentence)
+16:41:30 SB-N3 I2 c19: superseded (made under the old placement sentence)
+16:41:30 SB-N3 I2 c20: superseded (made under the old placement sentence)
+16:41:30 SB-N3 I2 c21: superseded (made under the old placement sentence)
+16:41:30 SB-N3 I2 c22: superseded (made under the old placement sentence)
+16:41:35 SB-N6_I2_c07: made (14.9 s, $0.14)
+16:41:40 SB-N4_I2_c26: made (17.8 s, $0.14)
+16:41:48 SB-N3_I2_c23: made (17.8 s, $0.14)
+16:41:50 SB-N6 I2 c07: rejected ['main elements', 'placement'] main_area=None cx=None desc=yes det=None
+16:41:53 SB-N4 I2 c26: rejected ['text', 'placement'] main_area=0.1165 cx=0.7671 desc=yes det=True
+16:42:04 SB-N3 I2 c23: rejected ['text', 'plan fit'] main_area=0.2965 cx=0.7793 desc=yes det=None
+16:42:08 SB-N4_I2_c27: made (15.1 s, $0.14)
+16:42:09 SB-N6_I2_c08: made (18.7 s, $0.14)
+16:42:21 SB-N4 I2 c27: rejected ['placement'] main_area=0.1069 cx=0.735 desc=yes det=True
+16:42:21 SB-N3_I2_c24: made (17.2 s, $0.14)
+16:42:27 SB-N6 I2 c08: rejected ['plan fit'] main_area=0.1235 cx=0.7216 desc=yes det=None
+16:42:34 SB-N3 I2 c24: rejected ['text', 'plan fit', 'placement'] main_area=0.0028 cx=0.5201 desc=yes det=None
+16:42:37 SB-N4_I2_c28: made (16.5 s, $0.14)
+16:42:44 SB-N6_I2_c09: made (16.6 s, $0.14)
+16:42:49 SB-N4 I2 c28: rejected ['placement'] main_area=0.1286 cx=0.705 desc=yes det=True
+16:42:50 SB-N3_I2_c25: made (16.2 s, $0.14)
+16:42:57 SB-N6 I2 c09: rejected ['main elements', 'plan fit', 'placement'] main_area=None cx=None desc=yes det=None
+16:43:04 SB-N3 I2 c25: rejected ['text', 'plan fit', 'placement'] main_area=0.0057 cx=0.4862 desc=yes det=None
+16:43:10 SB-N4_I2_c29: made (20.7 s, $0.14)
+16:43:16 SB-N6_I2_c10: made (18.8 s, $0.14)
+16:43:20 SB-N3_I2_c26: made (15.4 s, $0.14)
+16:43:26 SB-N4 I2 c29: rejected ['plan fit', 'placement'] main_area=0.1211 cx=0.7087 desc=yes det=True
+16:43:32 SB-N6 I2 c10: rejected ['text', 'plan fit'] main_area=0.0838 cx=0.6919 desc=yes det=None
+16:43:41 SB-N3 I2 c26: rejected ['text', 'placement'] main_area=0.004 cx=0.5772 desc=yes det=None
+16:43:43 SB-N4_I2_c30: made (16.5 s, $0.14)
+16:43:48 SB-N6_I2_c11: made (16.3 s, $0.14)
+16:43:57 SB-N4 I2 c30: rejected ['text', 'placement'] main_area=0.1121 cx=0.7472 desc=yes det=True
+16:44:05 SB-N3_I2_c27: made (24.3 s, $0.14)
+16:44:06 SB-N6 I2 c11: rejected ['main elements', 'placement'] main_area=None cx=None desc=yes det=None
+16:44:14 SB-N4_I2_c31: made (17.8 s, $0.14)
+16:44:17 SB-N3 I2 c27: rejected ['text', 'plan fit', 'placement'] main_area=0.0042 cx=0.5342 desc=yes det=None
+16:44:23 SB-N6_I2_c12: API error 500: Internal error encountered.
+16:44:27 SB-N4 I2 c31: rejected ['placement'] main_area=0.0766 cx=0.7773 desc=yes det=True
+16:44:37 SB-N3_I2_c28: made (20.3 s, $0.14)
+16:44:47 SB-N4_I2_c32: made (20.1 s, $0.14)
+16:44:51 SB-N3 I2 c28: rejected ['placement'] main_area=0.0016 cx=0.4708 desc=yes det=None
+16:45:01 SB-N4 I2 c32: ACCEPTED  main_area=0.1739 cx=0.737 desc=yes det=True
+16:45:07 SB-N3_I2_c29: made (16.2 s, $0.14)
+16:45:08 SB-N6_I2_c12: made (14.6 s, $0.14)
+16:45:21 SB-N3 I2 c29: rejected ['text', 'plan fit', 'placement'] main_area=0.0038 cx=0.8298 desc=yes det=None
+16:45:25 SB-N6 I2 c12: rejected ['plan fit'] main_area=0.0156 cx=0.631 desc=yes det=None
+16:45:38 SB-N3_I2_c30: made (17.2 s, $0.14)
+16:45:43 SB-N6_I2_c13: made (18.1 s, $0.14)
+16:45:54 SB-N3 I2 c30: rejected ['text', 'plan fit', 'placement'] main_area=0.003 cx=0.0251 desc=yes det=None
+16:45:56 SB-N6 I2 c13: rejected ['placement'] main_area=0.3438 cx=0.4243 desc=yes det=None
+16:46:10 SB-N3_I2_c31: made (16.5 s, $0.14)
+16:46:12 SB-N6_I2_c14: made (16.5 s, $0.14)
+16:46:24 SB-N3 I2 c31: rejected ['text', 'plan fit', 'placement'] main_area=0.0075 cx=0.1744 desc=yes det=None
+16:46:30 SB-N6 I2 c14: ACCEPTED  main_area=0.1191 cx=0.7381 desc=yes det=None
+16:46:41 SB-N3_I2_c32: made (16.3 s, $0.14)
+16:46:57 SB-N3 I2 c32: rejected ['text', 'plan fit', 'placement'] main_area=0.0053 cx=0.5714 desc=yes det=None
+16:47:12 SB-N3_I2_c33: made (15.4 s, $0.14)
+16:47:26 SB-N3 I2 c33: rejected ['text', 'plan fit', 'placement'] main_area=0.0041 cx=0.5338 desc=yes det=None
+16:47:42 SB-N3_I2_c34: made (15.6 s, $0.14)
+16:47:58 SB-N3 I2 c34: rejected ['text', 'plan fit', 'placement'] main_area=0.0057 cx=0.6041 desc=yes det=None
+16:48:14 SB-N3_I2_c35: made (15.4 s, $0.14)
+16:48:29 SB-N3 I2 c35: rejected ['text', 'plan fit', 'placement'] main_area=0.0111 cx=0.0567 desc=yes det=None
+16:48:45 SB-N3_I2_c36: made (15.8 s, $0.14)
+16:49:00 SB-N3 I2 c36: rejected ['text', 'plan fit', 'placement'] main_area=0.0071 cx=0.133 desc=yes det=None
+16:49:16 SB-N3_I2_c37: made (16.6 s, $0.14)
+16:49:31 SB-N3 I2 c37: rejected ['text', 'plan fit', 'placement'] main_area=0.0093 cx=0.0777 desc=yes det=None
+16:49:46 SB-N3_I2_c38: made (15.3 s, $0.14)
+16:50:02 SB-N3 I2 c38: rejected ['text', 'placement'] main_area=0.0035 cx=0.6254 desc=yes det=None
+16:50:02 STOP: soft cap: generate_setB_B1.py [gemini-3-pro-image] spent $29.00 + in flight $0.00 + next call up to $0.30 would pass $29.26
+16:50:07 outputs: 23 accepted files, 204 candidates
+16:50:07 summary:
+16:50:07   SB-P1: accepted; V1 c1; I2 c26
+16:50:07   SB-P2: accepted; V1 c4; I2 c2
+16:50:07   SB-P3: accepted; V1 c3; I2 c8
+16:50:07   SB-P4: accepted; V1 c7; I2 c1
+16:50:07   SB-P5: accepted; V1 c8; I2 c22
+16:50:07   SB-P6: accepted; V1 c1; I2 c2
+16:50:07   SB-N1: accepted; V1 c3; I2 c1
+16:50:07   SB-N2: accepted; V1 c2; I2 c1
+16:50:07   SB-N3: stopped; V1 c23; I2 c-
+16:50:07   SB-N4: accepted; V1 c1; I2 c32
+16:50:07   SB-N5: accepted; V1 c1; I2 c1
+16:50:07   SB-N6: accepted; V1 c2; I2 c14
+16:50:07 stop reasons: ['soft cap: generate_setB_B1.py [gemini-3-pro-image] spent $29.00 + in flight $0.00 + next call up to $0.30 would pass $29.26']
+16:50:07 ledgers: Set B $56.40 + Set A $36.85; this run $29.00; accepted files 23
+--- SB-N3 I2: rescue rule in full (cap raised to $130; $4 for this file; no reserves) Tue Oct 27 17:13:22 PDT 2026
+17:13:24 ledgers: Set B $56.52 + Set A $36.85 (cap $130); this run so far $29.00; soft cap $33.00
+17:13:29 SB-N3 V1 c01: rejected ['text'] main_area=0.0008 cx=0.261 desc=yes det=None
+17:13:29 SB-N3 V1 c02: rejected ['text'] main_area=0.0051 cx=0.2719 desc=yes det=None
+17:13:29 SB-N3 V1 c03: rejected ['text'] main_area=0.0027 cx=0.985 desc=yes det=None
+17:13:29 SB-N3 V1 c04: rejected ['text'] main_area=0.0006 cx=0.6872 desc=yes det=None
+17:13:29 SB-N3 V1 c05: rejected ['text'] main_area=0.0319 cx=0.7308 desc=yes det=None
+17:13:30 SB-N3 V1 c06: rejected ['text'] main_area=0.0049 cx=0.8947 desc=yes det=None
+17:13:30 SB-N3 V1 c07: rejected ['text'] main_area=0.0037 cx=0.2142 desc=yes det=None
+17:13:30 SB-N3 V1 c08: rejected ['text'] main_area=0.0046 cx=0.5181 desc=yes det=None
+17:13:30 SB-N3 V1 c09: rejected ['text'] main_area=0.0017 cx=0.2972 desc=yes det=None
+17:13:30 SB-N3 V1 c10: rejected ['text'] main_area=0.0013 cx=0.4151 desc=yes det=None
+17:13:30 SB-N3 V1 c11: rejected ['text'] main_area=0.0082 cx=0.06 desc=yes det=None
+17:13:30 SB-N3 V1 c12: rejected ['text'] main_area=0.0017 cx=0.9271 desc=yes det=None
+17:13:30 SB-N3 V1 c13: rejected ['text'] main_area=0.0284 cx=0.3383 desc=yes det=None
+17:13:30 SB-N3 V1 c14: rejected ['text'] main_area=0.002 cx=0.3048 desc=yes det=None
+17:13:30 SB-N3 V1 c15: rejected ['text'] main_area=0.054 cx=0.3551 desc=yes det=None
+17:13:30 SB-N3 V1 c16: rejected ['plan fit'] main_area=0.0057 cx=0.6356 desc=yes det=None
+17:13:30 SB-N3 V1 c17: rejected ['text'] main_area=0.0529 cx=0.5469 desc=yes det=None
+17:13:31 SB-N3 V1 c18: rejected ['text', 'plan fit'] main_area=0.0035 cx=0.3604 desc=yes det=None
+17:13:31 SB-N3 V1 c19: rejected ['text', 'plan fit'] main_area=0.0069 cx=0.4687 desc=yes det=None
+17:13:31 SB-N3 V1 c20: rejected ['text', 'plan fit'] main_area=0.0144 cx=0.5447 desc=yes det=None
+17:13:31 SB-N3 V1: 20 failures; prompt revision (text): The photograph shows no visible text, letters, numbers, signatures or watermarks.
+17:13:31 SB-N3 V1 c21: rejected ['text', 'plan fit'] main_area=0.0043 cx=0.0867 desc=yes det=None
+17:13:31 SB-N3 V1 c22: rejected ['plan fit'] main_area=0.0008 cx=0.751 desc=yes det=None
+17:13:31 SB-N3 V1 c23: ACCEPTED  main_area=0.0616 cx=0.382 desc=yes det=None
+17:13:31 SB-N3: V1 accepted (c23); placement sentence: The parked car is on the right side of the frame, large, seen from close by.
+17:13:31 SB-N3 I2 c23: rejected ['text', 'plan fit'] main_area=0.2965 cx=0.7793 desc=yes det=None
+17:13:31 SB-N3 I2 c24: rejected ['text', 'plan fit', 'placement'] main_area=0.0028 cx=0.5201 desc=yes det=None
+17:13:31 SB-N3 I2 c25: rejected ['text', 'plan fit', 'placement'] main_area=0.0057 cx=0.4862 desc=yes det=None
+17:13:31 SB-N3 I2 c26: rejected ['text', 'placement'] main_area=0.004 cx=0.5772 desc=yes det=None
+17:13:31 SB-N3 I2 c27: rejected ['text', 'plan fit', 'placement'] main_area=0.0042 cx=0.5342 desc=yes det=None
+17:13:31 SB-N3 I2 c28: rejected ['placement'] main_area=0.0016 cx=0.4708 desc=yes det=None
+17:13:31 SB-N3 I2 c29: rejected ['text', 'plan fit', 'placement'] main_area=0.0038 cx=0.8298 desc=yes det=None
+17:13:31 SB-N3 I2 c30: rejected ['text', 'plan fit', 'placement'] main_area=0.003 cx=0.0251 desc=yes det=None
+17:13:31 SB-N3 I2 c31: rejected ['text', 'plan fit', 'placement'] main_area=0.0075 cx=0.1744 desc=yes det=None
+17:13:31 SB-N3 I2 c32: rejected ['text', 'plan fit', 'placement'] main_area=0.0053 cx=0.5714 desc=yes det=None
+17:13:32 SB-N3 I2 c33: rejected ['text', 'plan fit', 'placement'] main_area=0.0041 cx=0.5338 desc=yes det=None
+17:13:32 SB-N3 I2 c34: rejected ['text', 'plan fit', 'placement'] main_area=0.0057 cx=0.6041 desc=yes det=None
+17:13:32 SB-N3 I2 c35: rejected ['text', 'plan fit', 'placement'] main_area=0.0111 cx=0.0567 desc=yes det=None
+17:13:32 SB-N3 I2 c36: rejected ['text', 'plan fit', 'placement'] main_area=0.0071 cx=0.133 desc=yes det=None
+17:13:32 SB-N3 I2 c37: rejected ['text', 'plan fit', 'placement'] main_area=0.0093 cx=0.0777 desc=yes det=None
+17:13:32 SB-N3 I2 c38: rejected ['text', 'placement'] main_area=0.0035 cx=0.6254 desc=yes det=None
+17:13:47 SB-N3_I2_c39: made (15.1 s, $0.14)
+17:14:04 SB-N3 I2 c39: rejected ['text', 'plan fit', 'placement'] main_area=0.0012 cx=0.2631 desc=yes det=None
+17:14:21 SB-N3_I2_c40: made (16.6 s, $0.14)
+17:14:34 SB-N3 I2 c40: rejected ['text', 'placement'] main_area=0.005 cx=0.9 desc=yes det=None
+17:14:48 SB-N3_I2_c41: made (14.6 s, $0.14)
+17:15:04 SB-N3 I2 c41: rejected ['text', 'placement'] main_area=0.0042 cx=0.4253 desc=yes det=None
+17:15:20 SB-N3_I2_c42: made (15.8 s, $0.14)
+17:15:40 SB-N3 I2 c42: rejected ['text', 'placement'] main_area=0.0006 cx=0.822 desc=yes det=None
+17:15:40 SB-N3 I2: 20 failures; prompt revision (placement): The photograph clearly shows the parked car on the right side of the frame, large, seen from close by.
+17:15:55 SB-N3_I2_c43: made (15.1 s, $0.14)
+17:16:10 SB-N3 I2 c43: rejected ['text', 'placement'] main_area=0.0031 cx=0.2585 desc=yes det=None
+17:16:27 SB-N3_I2_c44: made (17.1 s, $0.14)
+17:16:41 SB-N3 I2 c44: rejected ['text', 'plan fit', 'placement'] main_area=0.0125 cx=0.6072 desc=yes det=None
+17:16:57 SB-N3_I2_c45: made (15.6 s, $0.14)
+17:17:17 SB-N3 I2 c45: rejected ['text', 'plan fit', 'placement'] main_area=0.0083 cx=0.6 desc=yes det=None
+17:17:33 SB-N3_I2_c46: made (15.7 s, $0.14)
+17:17:46 SB-N3 I2 c46: rejected ['text', 'plan fit', 'placement'] main_area=0.0123 cx=0.0481 desc=yes det=None
+17:18:01 SB-N3_I2_c47: made (15.1 s, $0.14)
+17:18:16 SB-N3 I2 c47: rejected ['text', 'plan fit', 'placement'] main_area=0.0034 cx=0.1828 desc=yes det=None
+17:18:32 SB-N3_I2_c48: made (16.7 s, $0.14)
+17:18:52 SB-N3 I2 c48: rejected ['text', 'plan fit'] main_area=0.3188 cx=0.7758 desc=yes det=None
+17:19:07 SB-N3_I2_c49: made (14.8 s, $0.14)
+17:19:20 SB-N3 I2 c49: rejected ['text', 'plan fit', 'placement'] main_area=0.001 cx=0.49 desc=yes det=None
+17:19:34 SB-N3_I2_c50: made (14.5 s, $0.14)
+17:19:49 SB-N3 I2 c50: rejected ['text', 'plan fit', 'placement'] main_area=0.0042 cx=0.5756 desc=yes det=None
+17:20:05 SB-N3_I2_c51: made (15.7 s, $0.14)
+17:20:18 SB-N3 I2 c51: rejected ['text', 'plan fit', 'placement'] main_area=0.0048 cx=0.4827 desc=yes det=None
+17:20:33 SB-N3_I2_c52: made (14.6 s, $0.14)
+17:20:46 SB-N3 I2 c52: rejected ['text', 'plan fit', 'placement'] main_area=0.0048 cx=0.5228 desc=yes det=None
+17:21:02 SB-N3_I2_c53: made (15.3 s, $0.14)
+17:21:16 SB-N3 I2 c53: rejected ['text', 'plan fit', 'placement'] main_area=0.0797 cx=0.5761 desc=yes det=None
+17:21:33 SB-N3_I2_c54: made (17.2 s, $0.14)
+17:21:55 SB-N3 I2 c54: rejected ['text', 'placement'] main_area=0.0062 cx=0.0431 desc=yes det=None
+17:22:10 SB-N3_I2_c55: made (15.4 s, $0.14)
+17:22:25 SB-N3 I2 c55: rejected ['text', 'placement'] main_area=0.0042 cx=0.3947 desc=yes det=None
+17:22:40 SB-N3_I2_c56: made (15.5 s, $0.14)
+17:22:56 SB-N3 I2 c56: rejected ['text', 'placement'] main_area=0.0061 cx=0.5478 desc=yes det=None
+17:23:12 SB-N3_I2_c57: made (16.5 s, $0.14)
+17:23:28 SB-N3 I2 c57: rejected ['text', 'plan fit', 'placement'] main_area=0.0072 cx=0.5709 desc=yes det=None
+17:23:43 SB-N3_I2_c58: made (14.7 s, $0.14)
+17:23:55 SB-N3 I2 c58: rejected ['text', 'placement'] main_area=0.0062 cx=0.8722 desc=yes det=None
+17:24:10 SB-N3_I2_c59: made (15.7 s, $0.14)
+17:24:32 SB-N3 I2 c59: rejected ['text', 'placement'] main_area=0.0045 cx=0.541 desc=yes det=None
+17:24:48 SB-N3_I2_c60: made (16.2 s, $0.14)
+17:25:09 SB-N3 I2 c60: rejected ['text', 'plan fit', 'placement'] main_area=0.0041 cx=0.7982 desc=yes det=None
+17:25:25 SB-N3_I2_c61: made (15.4 s, $0.14)
+17:25:38 SB-N3 I2 c61: rejected ['text', 'placement'] main_area=0.0034 cx=0.8108 desc=yes det=None
+17:25:52 SB-N3_I2_c62: made (14.7 s, $0.14)
+17:26:05 SB-N3 I2 c62: rejected ['text', 'plan fit', 'placement'] main_area=0.001 cx=0.5314 desc=yes det=None
+17:26:05 SB-N3 failed after its revision; reserve not used (--no-reserves): decision needed
+17:26:24 outputs: 23 accepted files, 228 candidates
+17:26:24 summary:
+17:26:24   SB-N3: failed; V1 c23; I2 c-
+17:26:24 ledgers: Set B $60.02 + Set A $41.01; this run $32.50; accepted files 23
+--- SB-N3 replaced by its reserve SB-R2 (bank rescue rule); SB-R2 V1 then I2 under all current rules; $5 cap Tue Oct 27 17:29:26 PDT 2026
+17:29:27 ledgers: Set B $60.02 + Set A $42.10 (cap $130); this run so far $32.50; soft cap $37.50
+17:29:51 SB-R2_V1_c01: made (15.3 s, $0.14)
+17:30:06 SB-R2 V1 c01: ACCEPTED  main_area=0.5146 cx=0.4244 desc=yes det=None
+17:30:06 SB-R2: V1 accepted (c01); placement sentence: The pier and the rowboat are on the right side of the frame, small, seen from farther away.
+17:30:21 SB-R2_I2_c01: made (14.6 s, $0.14)
+17:30:35 SB-R2 I2 c01: rejected ['placement'] main_area=0.4634 cx=0.3998 desc=yes det=None
+17:30:50 SB-R2_I2_c02: made (14.4 s, $0.14)
+17:31:04 SB-R2 I2 c02: rejected ['placement'] main_area=0.4195 cx=0.3795 desc=yes det=None
+17:31:24 SB-R2_I2_c03: made (20.7 s, $0.14)
+17:31:40 SB-R2 I2 c03: rejected ['placement'] main_area=0.4693 cx=0.4717 desc=yes det=None
+17:31:55 SB-R2_I2_c04: made (15.5 s, $0.14)
+17:32:17 SB-R2 I2 c04: rejected ['placement'] main_area=0.6201 cx=0.5779 desc=yes det=None
+17:32:31 SB-R2_I2_c05: made (14.0 s, $0.14)
+17:32:45 SB-R2 I2 c05: rejected ['placement'] main_area=0.5329 cx=0.4717 desc=yes det=None
+17:33:00 SB-R2_I2_c06: made (15.0 s, $0.14)
+17:33:13 SB-R2 I2 c06: rejected ['placement'] main_area=0.6673 cx=0.4607 desc=yes det=None
+17:33:27 SB-R2_I2_c07: made (13.9 s, $0.14)
+17:33:42 SB-R2 I2 c07: rejected ['placement'] main_area=0.494 cx=0.468 desc=yes det=None
+17:33:57 SB-R2_I2_c08: made (15.7 s, $0.14)
+17:34:13 SB-R2 I2 c08: rejected ['placement'] main_area=0.348 cx=0.5755 desc=yes det=None
+17:34:28 SB-R2_I2_c09: made (14.5 s, $0.14)
+17:34:41 SB-R2 I2 c09: rejected ['placement'] main_area=0.2831 cx=0.6896 desc=yes det=None
+17:34:57 SB-R2_I2_c10: made (15.6 s, $0.14)
+17:35:11 SB-R2 I2 c10: rejected ['feature', 'placement'] main_area=0.3731 cx=0.7229 desc=no det=None
+17:35:27 SB-R2_I2_c11: made (15.2 s, $0.14)
+17:35:40 SB-R2 I2 c11: ACCEPTED  main_area=0.1393 cx=0.7358 desc=yes det=None
+17:35:57 outputs: 24 accepted files, 240 candidates
+17:35:57 summary:
+17:35:57   SB-R2: accepted; V1 c1; I2 c11
+17:35:57 ledgers: Set B $61.77 + Set A $44.46; this run $34.25; accepted files 24
